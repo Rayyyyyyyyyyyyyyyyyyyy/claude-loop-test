@@ -25,7 +25,7 @@ type SSGConfig = UserConfig & {
 }
 
 const config: SSGConfig = {
-  base: '/claude-loop/',
+  base: '/claude-loop-test/',
   plugins: [vue()],
   ssgOptions: {
     formatting: 'minify',

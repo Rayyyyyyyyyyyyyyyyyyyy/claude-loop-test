@@ -73,9 +73,9 @@
 
 ### Requirement: 正確的 base path
 
-系統 SHALL 以 `base: '/claude-loop/'` 設定建置，使所有資源連結、頁面路由與內部連結在 `https://rayyyy.github.io/claude-loop/` 下皆能正確解析。
+系統 SHALL 以 `base: '/claude-loop-test/'` 設定建置，使所有資源連結、頁面路由與內部連結在 `https://rayyyy.github.io/claude-loop-test/` 下皆能正確解析。
 
 #### Scenario: Pages 子路徑下連結正確
 
-- **WHEN** 網站部署於 `https://rayyyy.github.io/claude-loop/` 且使用者於各頁間點擊內部連結
+- **WHEN** 網站部署於 `https://rayyyy.github.io/claude-loop-test/` 且使用者於各頁間點擊內部連結
 - **THEN** 所有頁面與靜態資源（JS/CSS/字體/圖片）皆正確載入，無因 base path 造成的 404

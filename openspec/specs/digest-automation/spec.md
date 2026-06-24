@@ -27,7 +27,7 @@ workflow SHALL 依序執行:呼叫 Gemini 產生當日資料 → 將 `data/YYYY-
 #### Scenario: 端到端發佈
 
 - **WHEN** workflow 被觸發且 Gemini 產生成功
-- **THEN** 當日 JSON 被 commit 回 repo、網站完成 build 並部署，新內容於 `https://rayyyy.github.io/claude-loop/` 可見
+- **THEN** 當日 JSON 被 commit 回 repo、網站完成 build 並部署，新內容於 `https://rayyyy.github.io/claude-loop-test/` 可見
 
 ### Requirement: 歷史資料累積
 

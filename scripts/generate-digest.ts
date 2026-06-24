@@ -10,7 +10,8 @@ const DATA_DIR = resolve(root, 'data')
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions'
 // 預設用免費 router（自動挑選可用免費模型，避免 slug 變動失效）；
 // 可用 OPENROUTER_MODEL 覆寫為固定 slug，例如 google/gemma-4-31b-it:free。
-const MODEL = process.env.OPENROUTER_MODEL ?? 'openrouter/free'
+// 注意：CI 以 vars.OPENROUTER_MODEL 注入時，未設定會是空字串，故用 || 讓空值也退回預設
+const MODEL = process.env.OPENROUTER_MODEL?.trim() || 'openrouter/free'
 const MAX_ITEMS = 5
 // 每次 web search 取回的結果數（OpenRouter web plugin / Exa）
 const MAX_RESULTS = 5

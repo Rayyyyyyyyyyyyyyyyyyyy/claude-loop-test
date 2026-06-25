@@ -7,25 +7,25 @@
       "status": "ok",
       "items": [
         {
-          "title": "Anthropic 發現美國政府電腦系統存在漏洞",
-          "summary": "Anthropic 模型在測試中發現美國政府敏感電腦系統的安全漏洞，引發對國安測試的關注。",
-          "category": "國安",
+          "title": "Anthropic模型在美國政府電腦系統測試中發現安全漏洞",
+          "summary": "Anthropic的Mythos大型模型於「Project Glasswing」國安測試中，於數小時內找出美國高度敏感系統的多項漏洞，顯示AI在資安偵測上的強大能力，但尚未證實能即時利用這些漏洞發動攻擊。",
+          "category": "人工智慧/資安",
           "sources": [
             {
               "title": "參與國安測試　Anthropic模型發現美政府電腦系統漏洞 | 科技 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/ait/202606240144.aspx"
             },
             {
-              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
-            },
-            {
               "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個 | TechNews 科技新報",
               "url": "https://technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/"
             },
             {
-              "title": "OpenAI 攜手博通 推首款 AI 晶片 號稱可省50%成本 | 國際焦點 | 國際 | 經濟日報",
-              "url": "https://money.udn.com/money/story/5599/9586523"
+              "title": "OpenAI與博通研發AI晶片Jalapeno 推理成本可大減5成 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260624702058-430704"
+            },
+            {
+              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
             },
             {
               "title": "從截圖到程式碼：Claude Fable 5「視覺 SOTA」顛覆軟體外包產業 | TechNews 科技新報",
@@ -34,25 +34,25 @@
           ]
         },
         {
-          "title": "鴻海與日本夏普進行AI基礎設施合作",
-          "summary": "鴻海與日本夏普進行策略合作，共同進展AI基礎設施與能源機器人領域，強化兩國科技合作。",
-          "category": "科技",
+          "title": "台積電全面調漲先進製程代工價格",
+          "summary": "台積電宣布對所有先進製程（7奈米及以下）調升代工費用，漲幅約5%至10%。此舉回應記憶體晶片廠大幅提價，預計將提升全年毛利率約2個百分點。",
+          "category": "半導體/產業動態",
           "sources": [
             {
               "title": "參與國安測試　Anthropic模型發現美政府電腦系統漏洞 | 科技 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/ait/202606240144.aspx"
             },
             {
-              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
-            },
-            {
               "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個 | TechNews 科技新報",
               "url": "https://technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/"
             },
             {
-              "title": "OpenAI 攜手博通 推首款 AI 晶片 號稱可省50%成本 | 國際焦點 | 國際 | 經濟日報",
-              "url": "https://money.udn.com/money/story/5599/9586523"
+              "title": "OpenAI與博通研發AI晶片Jalapeno 推理成本可大減5成 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260624702058-430704"
+            },
+            {
+              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
             },
             {
               "title": "從截圖到程式碼：Claude Fable 5「視覺 SOTA」顛覆軟體外包產業 | TechNews 科技新報",
@@ -61,25 +61,25 @@
           ]
         },
         {
-          "title": "台積電漲價，覆蓋所有先進製程",
-          "summary": "台積電宣布全年營收成長，漲價範圍涵蓋所有先進製程，市場對其策略表示信任。",
-          "category": "半導體",
+          "title": "OpenAI與博通聯手推出客製化AI晶片「Jalapeno」",
+          "summary": "OpenAI展示首款自研AI推理晶片Jalapeno，與博通合作設計，預計將大型語言模型的推理成本降低約50%，效能可與NVIDIA Blackwell及Google TPU相媲美，將加速資料中心建設。",
+          "category": "硬體/AI晶片",
           "sources": [
             {
               "title": "參與國安測試　Anthropic模型發現美政府電腦系統漏洞 | 科技 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/ait/202606240144.aspx"
             },
             {
-              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
-            },
-            {
               "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個 | TechNews 科技新報",
               "url": "https://technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/"
             },
             {
-              "title": "OpenAI 攜手博通 推首款 AI 晶片 號稱可省50%成本 | 國際焦點 | 國際 | 經濟日報",
-              "url": "https://money.udn.com/money/story/5599/9586523"
+              "title": "OpenAI與博通研發AI晶片Jalapeno 推理成本可大減5成 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260624702058-430704"
+            },
+            {
+              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
             },
             {
               "title": "從截圖到程式碼：Claude Fable 5「視覺 SOTA」顛覆軟體外包產業 | TechNews 科技新報",
@@ -88,25 +88,25 @@
           ]
         },
         {
-          "title": "OpenAI推出首款AI晶片，成本降低50%",
-          "summary": "OpenAI與博通合作推出AI晶片，顯示新技術在成本控制與性能提升方面的突破。",
-          "category": "半導體",
+          "title": "鴻海與夏普簽署策略合作備忘錄，布局AI基礎設施與能源機器人",
+          "summary": "鴻海在董事長劉揚偉見證下與日本夏普簽署合作備忘錄，雙方將共同開發AI伺服器、能源與ESG解決方案、機器人與智慧城市等領域，推動AI基礎建設與新事業落地。",
+          "category": "產業合作/AI基礎設施",
           "sources": [
             {
               "title": "參與國安測試　Anthropic模型發現美政府電腦系統漏洞 | 科技 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/ait/202606240144.aspx"
             },
             {
-              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
-            },
-            {
               "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個 | TechNews 科技新報",
               "url": "https://technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/"
             },
             {
-              "title": "OpenAI 攜手博通 推首款 AI 晶片 號稱可省50%成本 | 國際焦點 | 國際 | 經濟日報",
-              "url": "https://money.udn.com/money/story/5599/9586523"
+              "title": "OpenAI與博通研發AI晶片Jalapeno 推理成本可大減5成 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260624702058-430704"
+            },
+            {
+              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
             },
             {
               "title": "從截圖到程式碼：Claude Fable 5「視覺 SOTA」顛覆軟體外包產業 | TechNews 科技新報",
@@ -115,25 +115,25 @@
           ]
         },
         {
-          "title": "AI外包產業轉型，軟體工程效率提升",
-          "summary": "AI代理出現後，軟體外包產業轉型，強調人力工時效率提升與成本控制的挑戰。",
-          "category": "軟體",
+          "title": "Anthropic發布Claude Fable 5，視覺理解達到SOTA水平",
+          "summary": "Claude Fable 5是首款公開的Mythos級模型，具備從單張截圖即時生成完整網頁原始碼的能力，對軟體外包產業構成衝擊；同時美國以國安理由禁止外國人使用此模型。",
+          "category": "人工智慧/視覺模型",
           "sources": [
             {
               "title": "參與國安測試　Anthropic模型發現美政府電腦系統漏洞 | 科技 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/ait/202606240144.aspx"
             },
             {
-              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
-            },
-            {
               "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個 | TechNews 科技新報",
               "url": "https://technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/"
             },
             {
-              "title": "OpenAI 攜手博通 推首款 AI 晶片 號稱可省50%成本 | 國際焦點 | 國際 | 經濟日報",
-              "url": "https://money.udn.com/money/story/5599/9586523"
+              "title": "OpenAI與博通研發AI晶片Jalapeno 推理成本可大減5成 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260624702058-430704"
+            },
+            {
+              "title": "鴻海攜夏普策略合作　攻AI基建能源機器人 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606240204.aspx"
             },
             {
               "title": "從截圖到程式碼：Claude Fable 5「視覺 SOTA」顛覆軟體外包產業 | TechNews 科技新報",
@@ -149,137 +149,137 @@
       "status": "ok",
       "items": [
         {
+          "title": "美國國務卿盧比奧警告伊朗勿在霍爾木茲海峽徵收通行費",
+          "summary": "美國國務卿盧比奧於阿聯酋發表聲明，強調任何國家不得在國際水道徵收通行費，並警告伊朗停止對過境船隻收取海事服務費。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "霍爾木茲海峽：聯合國擬撤離滯留船員，盧比奧警告伊朗勿收通行費 - BBC News 中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad"
+            },
+            {
+              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
+            },
+            {
+              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814480"
+            },
+            {
+              "title": "【53年來首次】美參眾兩院共同決議 停止對伊朗動武 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000149-260417?ctrack=pc_main_rtime_p10"
+            },
+            {
+              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144269"
+            }
+          ]
+        },
+        {
+          "title": "聯合國國際海事組織啟動撤離計畫，將1.1萬名滯留船員送離波斯灣",
+          "summary": "IMO計畫協助撤離因美以對伊衝突而滯留的海員，並將每日公布安全離開船隻數量。",
+          "category": "國際事務",
+          "sources": [
+            {
+              "title": "霍爾木茲海峽：聯合國擬撤離滯留船員，盧比奧警告伊朗勿收通行費 - BBC News 中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad"
+            },
+            {
+              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
+            },
+            {
+              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814480"
+            },
+            {
+              "title": "【53年來首次】美參眾兩院共同決議 停止對伊朗動武 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000149-260417?ctrack=pc_main_rtime_p10"
+            },
+            {
+              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144269"
+            }
+          ]
+        },
+        {
+          "title": "美國參議院通過「伊朗戰爭權力決議」要求川普停止對伊朗動武",
+          "summary": "參議院以50票對48票通過決議，雖無法強制執行，但顯示國會對美伊衝突的關切。",
+          "category": "國內政治",
+          "sources": [
+            {
+              "title": "霍爾木茲海峽：聯合國擬撤離滯留船員，盧比奧警告伊朗勿收通行費 - BBC News 中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad"
+            },
+            {
+              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
+            },
+            {
+              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814480"
+            },
+            {
+              "title": "【53年來首次】美參眾兩院共同決議 停止對伊朗動武 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000149-260417?ctrack=pc_main_rtime_p10"
+            },
+            {
+              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144269"
+            }
+          ]
+        },
+        {
           "title": "IAEA將依美伊協議派員檢查伊朗核設施",
-          "summary": "國際原子能總署表示將依據美國與伊朗達成的初步和平協議，派員檢查伊朗核設施，這是核材料庫存稀釋的關鍵環節，伊朗長期拒絕開放核設施。",
-          "category": "國際政治",
+          "summary": "國際原子能總署將派遣人員前往伊朗核濃縮設施，確認其高濃縮鈾庫存是否被稀釋。",
+          "category": "國際安全",
           "sources": [
+            {
+              "title": "霍爾木茲海峽：聯合國擬撤離滯留船員，盧比奧警告伊朗勿收通行費 - BBC News 中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad"
+            },
             {
               "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
-            },
-            {
-              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
-              "url": "https://app.storm.mg/article/11144269"
             },
             {
               "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
               "url": "https://news.pts.org.tw/article/814480"
             },
             {
-              "title": "半世紀首見！美參眾兩院聯手通過決議　限制川普對伊朗動武",
-              "url": "https://www.mnews.tw/story/20260624nm005"
+              "title": "【53年來首次】美參眾兩院共同決議 停止對伊朗動武 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000149-260417?ctrack=pc_main_rtime_p10"
             },
             {
-              "title": "盧比歐走訪波斯灣國家　將與盟邦討論美伊備忘錄 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240298.aspx"
+              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144269"
             }
           ]
         },
         {
-          "title": "美參眾聯手通過戰爭權力決議限制川普對伊朗動武",
-          "summary": "美國參議院以50票贊成通過《戰爭權力法》，要求川普在未獲國會授權前停止對伊朗軍事行動，反映國會對戰爭決策權的強化。",
-          "category": "國際政治",
+          "title": "英法德聯合聲明關注中國在台灣東部海域活動",
+          "summary": "三國駐台機構共同發表聲明，譴責中國對台灣東部海域的軍事行動，呼籲尊重航行自由與海員安全。",
+          "category": "國際關係",
           "sources": [
+            {
+              "title": "霍爾木茲海峽：聯合國擬撤離滯留船員，盧比奧警告伊朗勿收通行費 - BBC News 中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad"
+            },
             {
               "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
-            },
-            {
-              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
-              "url": "https://app.storm.mg/article/11144269"
             },
             {
               "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
               "url": "https://news.pts.org.tw/article/814480"
             },
             {
-              "title": "半世紀首見！美參眾兩院聯手通過決議　限制川普對伊朗動武",
-              "url": "https://www.mnews.tw/story/20260624nm005"
-            },
-            {
-              "title": "盧比歐走訪波斯灣國家　將與盟邦討論美伊備忘錄 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240298.aspx"
-            }
-          ]
-        },
-        {
-          "title": "中國在台灣東部海域活動引發國際關切",
-          "summary": "英國、法國、德國駐台機構聯合發布聲明，強烈反對中國在台灣東部海域無權主張主權，認為此舉嚴重破壞區域穩定。",
-          "category": "國際情勢",
-          "sources": [
-            {
-              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
+              "title": "【53年來首次】美參眾兩院共同決議 停止對伊朗動武 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000149-260417?ctrack=pc_main_rtime_p10"
             },
             {
               "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
               "url": "https://app.storm.mg/article/11144269"
-            },
-            {
-              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
-              "url": "https://news.pts.org.tw/article/814480"
-            },
-            {
-              "title": "半世紀首見！美參眾兩院聯手通過決議　限制川普對伊朗動武",
-              "url": "https://www.mnews.tw/story/20260624nm005"
-            },
-            {
-              "title": "盧比歐走訪波斯灣國家　將與盟邦討論美伊備忘錄 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240298.aspx"
-            }
-          ]
-        },
-        {
-          "title": "盧比歐訪問波斯灣國家推動美伊備忘錄討論",
-          "summary": "美國國務卿盧比歐訪問阿聯、科威特、巴林，強調荷莫茲海峽不得徵收通行費，並與盟友討論美伊和平協議的細節。",
-          "category": "國際外交",
-          "sources": [
-            {
-              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
-            },
-            {
-              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
-              "url": "https://app.storm.mg/article/11144269"
-            },
-            {
-              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
-              "url": "https://news.pts.org.tw/article/814480"
-            },
-            {
-              "title": "半世紀首見！美參眾兩院聯手通過決議　限制川普對伊朗動武",
-              "url": "https://www.mnews.tw/story/20260624nm005"
-            },
-            {
-              "title": "盧比歐走訪波斯灣國家　將與盟邦討論美伊備忘錄 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240298.aspx"
-            }
-          ]
-        },
-        {
-          "title": "伊朗與美國和平協議面臨新挑戰",
-          "summary": "雖已簽署初步協議，但伊朗否認開放核查，且荷莫茲海峽費用爭議導致談判陷入僵局，國際社會關注協議實施可行性。",
-          "category": "國際政治",
-          "sources": [
-            {
-              "title": "IAEA稱將依美伊協議　派員檢查伊朗核設施 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240301.aspx"
-            },
-            {
-              "title": "中國侵擾台灣東部海域！英法德罕見聯合關切　AIT也發聲批：嚴重破壞區域穩定 | 鍾秉哲 | 新聞 - 風傳媒",
-              "url": "https://app.storm.mg/article/11144269"
-            },
-            {
-              "title": "參議院要川普撤回伊朗美軍部隊 白宮強調該決議不具約束力 ｜ 公視新聞網 PNN",
-              "url": "https://news.pts.org.tw/article/814480"
-            },
-            {
-              "title": "半世紀首見！美參眾兩院聯手通過決議　限制川普對伊朗動武",
-              "url": "https://www.mnews.tw/story/20260624nm005"
-            },
-            {
-              "title": "盧比歐走訪波斯灣國家　將與盟邦討論美伊備忘錄 | 國際 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aopl/202606240298.aspx"
             }
           ]
         }
@@ -291,137 +291,137 @@
       "status": "ok",
       "items": [
         {
-          "title": "美聯儲升息預期飆升　AI泡沫遭遇首波利空",
-          "summary": "市場預期美聯儲在12月加息50個基點，利率上升直接壓縮AI相關公司的估值空間，科技股普遍回檔。此舉引發亞洲及美股半導體股大幅拋售，台積電、台達電等受創。",
-          "category": "AI泡沫",
+          "title": "台股驚濤駭浪 外資單日賣超1774億元創歷史新高，台指期夜盤殺逾600點",
+          "summary": "6月24日台灣股市遭遇外資大逃殺，單日外資賣超達1774億元，創下歷史新高，期貨市場空單也衝破8萬口，台指期夜盤重挫逾600點，加權指數終場大跌1057.05點，台積電等權值股成為重災區。",
+          "category": "股市",
           "sources": [
             {
-              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
-              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
-            },
-            {
-              "title": "外資期現貨無情雙殺 賣超史上最大 法人曝下檔支撐 - 證券 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701494-430201"
+              "title": "台股陷「估值卸妝」陰霾 外資瘋狂提款…賣超史上最大量 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9586666?from=udn_mobile_indexrecommend"
             },
             {
               "title": "央行看川普對等關稅週年　全球化未死只是被重塑 | 產經 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/afe/202606240237.aspx"
             },
             {
-              "title": "AI泡沫破了嗎？台股大跌逾千點 羅瑋揭關鍵原因 - 產業 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701273-430503"
+              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
             },
             {
-              "title": "聯準會升息嚇跑AI資金 晶片股泡沫一夕引爆",
-              "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%9A%87%E8%B7%91ai%E8%B3%87%E9%87%91-%E6%99%B6%E7%89%87%E8%82%A1%E6%B3%A1%E6%B2%AB-%E5%A4%95%E5%BC%95%E7%88%86-025431346.html"
+              "title": "外資期現貨「無情雙殺」史上最大拋售 法人曝台股下檔支撐 - 財經 - 工商",
+              "url": "https://www.chinatimes.com/realtimenews/20260624003547-260410"
+            },
+            {
+              "title": "外資大逃殺！單日賣超台股1774億元、期貨空單衝破8萬口，台指期夜盤殺逾600點 | 林彥呈 | 財經 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144170"
             }
           ]
         },
         {
-          "title": "外資創歷史單日賣超1,774億元　台股重挫逾千點",
-          "summary": "外資在台股期現貨市場單日提款達1,774.19億元，創下歷史新高，帶動加權指數下跌1,057點。大型科技股同步下殺，形成賣壓壓制。",
-          "category": "外資",
+          "title": "央行：特朗普對等關稅滿週年　全球化未死只是被重塑",
+          "summary": "中國央行分析，特朗普去年4月2日實施的對等關稅已滿週年，雖各國輸美關稅顯著上升，但全球出口仍維持高成長，顯示貿易情勢並非「去全球化」，而是「重塑全球化」，其中AI需求與供應鏈重組是主要因素。",
+          "category": "國際貿易",
           "sources": [
             {
-              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
-              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
-            },
-            {
-              "title": "外資期現貨無情雙殺 賣超史上最大 法人曝下檔支撐 - 證券 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701494-430201"
+              "title": "台股陷「估值卸妝」陰霾 外資瘋狂提款…賣超史上最大量 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9586666?from=udn_mobile_indexrecommend"
             },
             {
               "title": "央行看川普對等關稅週年　全球化未死只是被重塑 | 產經 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/afe/202606240237.aspx"
             },
             {
-              "title": "AI泡沫破了嗎？台股大跌逾千點 羅瑋揭關鍵原因 - 產業 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701273-430503"
+              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
             },
             {
-              "title": "聯準會升息嚇跑AI資金 晶片股泡沫一夕引爆",
-              "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%9A%87%E8%B7%91ai%E8%B3%87%E9%87%91-%E6%99%B6%E7%89%87%E8%82%A1%E6%B3%A1%E6%B2%AB-%E5%A4%95%E5%BC%95%E7%88%86-025431346.html"
+              "title": "外資期現貨「無情雙殺」史上最大拋售 法人曝台股下檔支撐 - 財經 - 工商",
+              "url": "https://www.chinatimes.com/realtimenews/20260624003547-260410"
+            },
+            {
+              "title": "外資大逃殺！單日賣超台股1774億元、期貨空單衝破8萬口，台指期夜盤殺逾600點 | 林彥呈 | 財經 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144170"
             }
           ]
         },
         {
-          "title": "美光財報不及預期　半導體板塊再度承壓",
-          "summary": "美光科技公布的財報未達市場預期，股價暴跌逾13%，帶動全球記憶體與半導體板塊承壓。此消息加速投資人對AI基礎建設需求的懷疑。",
-          "category": "半導體財報",
+          "title": "高盛警告：半導體橡皮筋已拉到極限，美光財報恐更慘",
+          "summary": "高盛衍生品交易部門Delta One主管警告，市場對人工智慧的樂觀情緒已將橡皮筋拉到極限，只要大型雲端服務商稍減支出就可能引發連鎖反應，預期週四公布的美光財報可能顯示AI基礎設施需求疲軟，記憶體股可能面臨更大壓力。",
+          "category": "半導體",
           "sources": [
             {
-              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
-              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
-            },
-            {
-              "title": "外資期現貨無情雙殺 賣超史上最大 法人曝下檔支撐 - 證券 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701494-430201"
+              "title": "台股陷「估值卸妝」陰霾 外資瘋狂提款…賣超史上最大量 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9586666?from=udn_mobile_indexrecommend"
             },
             {
               "title": "央行看川普對等關稅週年　全球化未死只是被重塑 | 產經 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/afe/202606240237.aspx"
             },
             {
-              "title": "AI泡沫破了嗎？台股大跌逾千點 羅瑋揭關鍵原因 - 產業 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701273-430503"
+              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
             },
             {
-              "title": "聯準會升息嚇跑AI資金 晶片股泡沫一夕引爆",
-              "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%9A%87%E8%B7%91ai%E8%B3%87%E9%87%91-%E6%99%B6%E7%89%87%E8%82%A1%E6%B3%A1%E6%B2%AB-%E5%A4%95%E5%BC%95%E7%88%86-025431346.html"
+              "title": "外資期現貨「無情雙殺」史上最大拋售 法人曝台股下檔支撐 - 財經 - 工商",
+              "url": "https://www.chinatimes.com/realtimenews/20260624003547-260410"
+            },
+            {
+              "title": "外資大逃殺！單日賣超台股1774億元、期貨空單衝破8萬口，台指期夜盤殺逾600點 | 林彥呈 | 財經 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144170"
             }
           ]
         },
         {
-          "title": "川普關稅一週年　全球化重塑而非衰退",
-          "summary": "美國總統川普對等關稅一週年，央行分析指出全球出口仍保持高速成長，顯示全球化正被重塑而非消失。台灣對美出口比重上升，供應鏈調整持續。",
-          "category": "關稅政策",
+          "title": "台積電市值超越特斯拉 登全球第六大企業",
+          "summary": "根據最新統計，台積電市值已達71兆元新台幣，超越特斯拉成為全球市值第六大企業，顯示台積電在AI浪潮下的先進製程領先地位，同時也反映出投資人對半導體供應鏈的高度信心。",
+          "category": "企業財報",
           "sources": [
             {
-              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
-              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
-            },
-            {
-              "title": "外資期現貨無情雙殺 賣超史上最大 法人曝下檔支撐 - 證券 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701494-430201"
+              "title": "台股陷「估值卸妝」陰霾 外資瘋狂提款…賣超史上最大量 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9586666?from=udn_mobile_indexrecommend"
             },
             {
               "title": "央行看川普對等關稅週年　全球化未死只是被重塑 | 產經 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/afe/202606240237.aspx"
             },
             {
-              "title": "AI泡沫破了嗎？台股大跌逾千點 羅瑋揭關鍵原因 - 產業 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701273-430503"
+              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
             },
             {
-              "title": "聯準會升息嚇跑AI資金 晶片股泡沫一夕引爆",
-              "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%9A%87%E8%B7%91ai%E8%B3%87%E9%87%91-%E6%99%B6%E7%89%87%E8%82%A1%E6%B3%A1%E6%B2%AB-%E5%A4%95%E5%BC%95%E7%88%86-025431346.html"
+              "title": "外資期現貨「無情雙殺」史上最大拋售 法人曝台股下檔支撐 - 財經 - 工商",
+              "url": "https://www.chinatimes.com/realtimenews/20260624003547-260410"
+            },
+            {
+              "title": "外資大逃殺！單日賣超台股1774億元、期貨空單衝破8萬口，台指期夜盤殺逾600點 | 林彥呈 | 財經 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144170"
             }
           ]
         },
         {
-          "title": "AI投資結構性調整　企業現金流與避險成焦點",
-          "summary": "富邦金控首席經濟學家羅瑋指出，AI投資正進入結構性調整，企業需優化現金配置與流動性管理。未來市場將聚焦AI應用的實質效益與利率走向。",
-          "category": "AI投資",
+          "title": "外資期現貨「無情雙殺」 法人曝台股下檔支撐",
+          "summary": "外資24日在期貨及現貨市場同時大賣，現貨提款額破1774億元，期貨空單激增7103口，創歷史新高，但部分法人認為台股低檔仍有支撐，如八大公股銀行逢低買進，中小型股表現較佳，月線附近或可視為短線止穩的依據。",
+          "category": "股市",
           "sources": [
             {
-              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
-              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
-            },
-            {
-              "title": "外資期現貨無情雙殺 賣超史上最大 法人曝下檔支撐 - 證券 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701494-430201"
+              "title": "台股陷「估值卸妝」陰霾 外資瘋狂提款…賣超史上最大量 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9586666?from=udn_mobile_indexrecommend"
             },
             {
               "title": "央行看川普對等關稅週年　全球化未死只是被重塑 | 產經 | 中央社 CNA",
               "url": "https://www.cna.com.tw/news/afe/202606240237.aspx"
             },
             {
-              "title": "AI泡沫破了嗎？台股大跌逾千點 羅瑋揭關鍵原因 - 產業 - 工商時報",
-              "url": "https://www.ctee.com.tw/news/20260624701273-430503"
+              "title": "股市暴跌原因曝光！高盛警告「橡皮筋已拉到極限」小心美光財報更慘 - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260624001517-260410"
             },
             {
-              "title": "聯準會升息嚇跑AI資金 晶片股泡沫一夕引爆",
-              "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%9A%87%E8%B7%91ai%E8%B3%87%E9%87%91-%E6%99%B6%E7%89%87%E8%82%A1%E6%B3%A1%E6%B2%AB-%E5%A4%95%E5%BC%95%E7%88%86-025431346.html"
+              "title": "外資期現貨「無情雙殺」史上最大拋售 法人曝台股下檔支撐 - 財經 - 工商",
+              "url": "https://www.chinatimes.com/realtimenews/20260624003547-260410"
+            },
+            {
+              "title": "外資大逃殺！單日賣超台股1774億元、期貨空單衝破8萬口，台指期夜盤殺逾600點 | 林彥呈 | 財經 - 風傳媒",
+              "url": "https://app.storm.mg/article/11144170"
             }
           ]
         }
@@ -433,13 +433,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "快儲水！6/25全台10縣市停水 影響區域、時間一次看",
-          "summary": "台灣自來水公司公告，6月25日將在桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、屏東、台東等10縣市部分區域停水，最長停水10小時，民眾需提前儲水並注意安全措施。",
-          "category": "生活",
+          "title": "米克拉颱風北上帶來劇烈降雨　全台多地發佈豪雨警報",
+          "summary": "米克拉颱風自東部外海北上，結合鋒面與西南風，使中南部出現大雨至豪雨，屏東更達大豪雨等級，氣象署提醒防範雷擊、強風與土石流。",
+          "category": "天氣災害",
           "sources": [
             {
-              "title": "政院擬修法　持有電子煙可罰10萬、毒駕再犯不得假釋 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240305.aspx"
+              "title": "全台變天！米克拉颱風北上甩雨 中南部下最猛 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001034-260405?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "國家警報大響！雷雨炸南部屏東「大豪雨」 3縣市早上恐淹水 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000979-260405?ctrack=pc_main_rtime_p01"
+            },
+            {
+              "title": "未成年子女免稅額增50% 今拍板 | 政治 | 要聞 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6656/9586790"
             },
             {
               "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演 | 政治 | 中央社 CNA",
@@ -448,25 +456,25 @@
             {
               "title": "快儲水！6／25全台10縣市停水　影響區域、時間一次看 | 生活 | CTWANT",
               "url": "https://www.ctwant.com/article/486557/"
-            },
-            {
-              "title": "搶先公布三鶯線營運許可  蘇巧慧：要求交通部回報 | 地方 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aloc/202606240240.aspx"
-            },
-            {
-              "title": "黃國昌：民眾黨團將自提無人載具條例　回歸年度預算 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240178.aspx"
             }
           ]
         },
         {
-          "title": "政院擬修法 持有電子煙可罰10萬、毒駕再犯不得假釋",
-          "summary": "行政院擬修法，持有電子煙將直接沒收並處3萬至10萬元罰鍰，同時加強毒駕、酒駕累犯者5年內不得假釋，並將依托咪酯列為第一級毒品。",
-          "category": "政策",
+          "title": "國家警報響起　屏東、台南、高雄連續豪雨致局部淹水",
+          "summary": "受米克拉外圍水氣影響，屏東縣被列為大豪雨警報區，台南與高雄升級為豪雨等級，民眾報告山區與低窪地區出現積水與土石流危險。",
+          "category": "災害警報",
           "sources": [
             {
-              "title": "政院擬修法　持有電子煙可罰10萬、毒駕再犯不得假釋 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240305.aspx"
+              "title": "全台變天！米克拉颱風北上甩雨 中南部下最猛 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001034-260405?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "國家警報大響！雷雨炸南部屏東「大豪雨」 3縣市早上恐淹水 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000979-260405?ctrack=pc_main_rtime_p01"
+            },
+            {
+              "title": "未成年子女免稅額增50% 今拍板 | 政治 | 要聞 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6656/9586790"
             },
             {
               "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演 | 政治 | 中央社 CNA",
@@ -475,25 +483,25 @@
             {
               "title": "快儲水！6／25全台10縣市停水　影響區域、時間一次看 | 生活 | CTWANT",
               "url": "https://www.ctwant.com/article/486557/"
-            },
-            {
-              "title": "搶先公布三鶯線營運許可  蘇巧慧：要求交通部回報 | 地方 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aloc/202606240240.aspx"
-            },
-            {
-              "title": "黃國昌：民眾黨團將自提無人載具條例　回歸年度預算 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240178.aspx"
             }
           ]
         },
         {
-          "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演",
-          "summary": "顧立雄指出，當前正進行的「堅毅之龍」與「勇敢之盾」軍演涉及日本九州與南西諸島的聯合作戰，以及包括美國、澳洲在內的大規模演習，凸顯台海安全與印太戰略的重要性。",
-          "category": "政治",
+          "title": "未成年子女免稅額將提升 50%　行政院預計今日通過修法草案",
+          "summary": "為因應少子化，賴清德總統提出人口新戰略，今日行政院會議將審議將未成年子女免稅額提高 50% 的所得稅法修正案，預計送立法院審議。",
+          "category": "政策法案",
           "sources": [
             {
-              "title": "政院擬修法　持有電子煙可罰10萬、毒駕再犯不得假釋 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240305.aspx"
+              "title": "全台變天！米克拉颱風北上甩雨 中南部下最猛 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001034-260405?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "國家警報大響！雷雨炸南部屏東「大豪雨」 3縣市早上恐淹水 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000979-260405?ctrack=pc_main_rtime_p01"
+            },
+            {
+              "title": "未成年子女免稅額增50% 今拍板 | 政治 | 要聞 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6656/9586790"
             },
             {
               "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演 | 政治 | 中央社 CNA",
@@ -502,25 +510,25 @@
             {
               "title": "快儲水！6／25全台10縣市停水　影響區域、時間一次看 | 生活 | CTWANT",
               "url": "https://www.ctwant.com/article/486557/"
-            },
-            {
-              "title": "搶先公布三鶯線營運許可  蘇巧慧：要求交通部回報 | 地方 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aloc/202606240240.aspx"
-            },
-            {
-              "title": "黃國昌：民眾黨團將自提無人載具條例　回歸年度預算 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240178.aspx"
             }
           ]
         },
         {
-          "title": "搶先公布三鶯線營運許可　蘇巧慧要求交通部回報",
-          "summary": "民進黨新北市長參選人蘇巧慧搶先公布交通部核准捷運三鶯線營運公文，引發李四川質疑，蘇巧慧表示將持續要求交通部即時回報進度。",
-          "category": "政治",
+          "title": "全台10縣市於6月25日實施停水　自來水公司提醒提前儲水",
+          "summary": "台水公司公告，桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、屏東與台東等10縣市部分區域將於當日不同時段停水，最長達10小時，呼籲民眾提前儲水並注意安全。",
+          "category": "生活服務",
           "sources": [
             {
-              "title": "政院擬修法　持有電子煙可罰10萬、毒駕再犯不得假釋 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240305.aspx"
+              "title": "全台變天！米克拉颱風北上甩雨 中南部下最猛 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001034-260405?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "國家警報大響！雷雨炸南部屏東「大豪雨」 3縣市早上恐淹水 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000979-260405?ctrack=pc_main_rtime_p01"
+            },
+            {
+              "title": "未成年子女免稅額增50% 今拍板 | 政治 | 要聞 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6656/9586790"
             },
             {
               "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演 | 政治 | 中央社 CNA",
@@ -529,25 +537,25 @@
             {
               "title": "快儲水！6／25全台10縣市停水　影響區域、時間一次看 | 生活 | CTWANT",
               "url": "https://www.ctwant.com/article/486557/"
-            },
-            {
-              "title": "搶先公布三鶯線營運許可  蘇巧慧：要求交通部回報 | 地方 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aloc/202606240240.aspx"
-            },
-            {
-              "title": "黃國昌：民眾黨團將自提無人載具條例　回歸年度預算 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240178.aspx"
             }
           ]
         },
         {
-          "title": "黃國昌：民眾黨團將自提無人載具條例 回歸年度預算",
-          "summary": "民眾黨主席黃國昌表示，將自提「無人載具發展條例」草案，將無人機等納入年度預算，建構可信任供應鏈，避免特別預算濫用。",
-          "category": "政策",
+          "title": "環太平洋軍演登場　顧立雄說堅毅之龍與勇敢之盾演練更應關注",
+          "summary": "環太軍演於6月24日啟動，顧立雄指出目前正進行的堅毅之龍與勇敢之盾演練聚焦島嶼聯合作戰與美日澳等多國協同，對台安全與防衛能力具有重要意義。",
+          "category": "國防安全",
           "sources": [
             {
-              "title": "政院擬修法　持有電子煙可罰10萬、毒駕再犯不得假釋 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240305.aspx"
+              "title": "全台變天！米克拉颱風北上甩雨 中南部下最猛 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001034-260405?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "國家警報大響！雷雨炸南部屏東「大豪雨」 3縣市早上恐淹水 - 時事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625000979-260405?ctrack=pc_main_rtime_p01"
+            },
+            {
+              "title": "未成年子女免稅額增50% 今拍板 | 政治 | 要聞 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6656/9586790"
             },
             {
               "title": "環太軍演登場　顧立雄：更應關注堅毅之龍、勇敢之盾軍演 | 政治 | 中央社 CNA",
@@ -556,14 +564,6 @@
             {
               "title": "快儲水！6／25全台10縣市停水　影響區域、時間一次看 | 生活 | CTWANT",
               "url": "https://www.ctwant.com/article/486557/"
-            },
-            {
-              "title": "搶先公布三鶯線營運許可  蘇巧慧：要求交通部回報 | 地方 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aloc/202606240240.aspx"
-            },
-            {
-              "title": "黃國昌：民眾黨團將自提無人載具條例　回歸年度預算 | 政治 | 中央社 CNA",
-              "url": "https://www.cna.com.tw/news/aipl/202606240178.aspx"
             }
           ]
         }

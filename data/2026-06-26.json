@@ -1,0 +1,573 @@
+{
+  "date": "2026-06-26",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "OpenAI與博通推出首款客製化AI晶片Jalapeno",
+          "summary": "OpenAI與博通合作設計的Jalapeno晶片已完成樣品測試，將於今年底部署於OpenAI的AI推理系統，預計可降低約50%成本。此晶片與Blackwell及Google TPU的效能相當，展現強大的AI加速能力。[ctee.com.tw](https://www.ctee.com.tw)",
+          "category": "AI晶片",
+          "sources": [
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI與博通開發首款定制AI晶片　比傳統GPU節省約50%成本 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606253001.aspx"
+            },
+            {
+              "title": "預言晶片即是「AI工廠」！黃仁勳喊Vera Rubin進入全面量產 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5483486"
+            },
+            {
+              "title": "高通揮軍AI資料中心 拿下Meta、微軟大單 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625700584-430704"
+            },
+            {
+              "title": "Anthropic控阿里巴巴非法提取Claude能力 為最大同類型攻擊 | 全球財經 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9587657"
+            }
+          ]
+        },
+        {
+          "title": "博通CEO肯定Jalapeno與Blackwell的效能",
+          "summary": "博通執行長陳福陽表示，Jalapeno晶片在AI推理任務上與Blackwell及Google TPU同等優秀，且相較於傳統GPU可節省約50%成本。公司已開始在實驗室內運行Jalapeno樣本，與GPT-5.3-Codex-Spark模型配合測試。[ctee.com.tw](https://www.ctee.com.tw)",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI與博通開發首款定制AI晶片　比傳統GPU節省約50%成本 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606253001.aspx"
+            },
+            {
+              "title": "預言晶片即是「AI工廠」！黃仁勳喊Vera Rubin進入全面量產 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5483486"
+            },
+            {
+              "title": "高通揮軍AI資料中心 拿下Meta、微軟大單 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625700584-430704"
+            },
+            {
+              "title": "Anthropic控阿里巴巴非法提取Claude能力 為最大同類型攻擊 | 全球財經 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9587657"
+            }
+          ]
+        },
+        {
+          "title": "高通獲取Meta、微軟AI資料中心大單",
+          "summary": "高通宣布與Meta、微軟簽署客製化ASIC合作，Meta將使用Dragonfly C1000 CPU，微軟則導入High Bandwidth Compute (HBC) 晶片，以降低資料搬移瓶頸。此舉標誌著AI ASIC市場競爭升溫，預計將於今年底前為高通帶來數十億美元收入。[ctee.com.tw](https://www.ctee.com.tw)",
+          "category": "AI資料中心",
+          "sources": [
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI與博通開發首款定制AI晶片　比傳統GPU節省約50%成本 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606253001.aspx"
+            },
+            {
+              "title": "預言晶片即是「AI工廠」！黃仁勳喊Vera Rubin進入全面量產 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5483486"
+            },
+            {
+              "title": "高通揮軍AI資料中心 拿下Meta、微軟大單 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625700584-430704"
+            },
+            {
+              "title": "Anthropic控阿里巴巴非法提取Claude能力 為最大同類型攻擊 | 全球財經 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9587657"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia推出Vera Rubin架構，打造AI工廠平台",
+          "summary": "黃仁勳在股東會上說明，Vera Rubin晶片將專注於AI代理時代的高速調度與強化推理，成為「AI工廠」的核心組件。結合NVLink、Spectrum-X等技術，將提供完整的AI算力生態系，預計全球主要模型開發者已開始規劃部署。[ctee.com.tw](https://www.ctee.com.tw)",
+          "category": "AI工業趨勢",
+          "sources": [
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI與博通開發首款定制AI晶片　比傳統GPU節省約50%成本 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606253001.aspx"
+            },
+            {
+              "title": "預言晶片即是「AI工廠」！黃仁勳喊Vera Rubin進入全面量產 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5483486"
+            },
+            {
+              "title": "高通揮軍AI資料中心 拿下Meta、微軟大單 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625700584-430704"
+            },
+            {
+              "title": "Anthropic控阿里巴巴非法提取Claude能力 為最大同類型攻擊 | 全球財經 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9587657"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic指控阿里巴巴非法蒸餾Claude模型",
+          "summary": "Anthropic指出，阿里巴巴透過約2.5萬個虛假帳戶與Claude進行2880萬次互動，非法提取模型能力，屬於最大規模的蒸餾攻擊。此事件凸顯 AI 模型安全與知識產權保護的新挑戰，相關訴訟正在進行中。[udn.com](https://udn.com)",
+          "category": "AI安全",
+          "sources": [
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI與博通開發首款定制AI晶片　比傳統GPU節省約50%成本 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606253001.aspx"
+            },
+            {
+              "title": "預言晶片即是「AI工廠」！黃仁勳喊Vera Rubin進入全面量產 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5483486"
+            },
+            {
+              "title": "高通揮軍AI資料中心 拿下Meta、微軟大單 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625700584-430704"
+            },
+            {
+              "title": "Anthropic控阿里巴巴非法提取Claude能力 為最大同類型攻擊 | 全球財經 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9587657"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無",
+          "summary": "今日新聞報道，伊朗革命衛隊幹部遭遇荷姆茲海峽新航線貨輪遭擊中，並無人傷亡。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無傷亡 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5484368"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "中東戰事加劇北約美國緊張 秘書長呂特親赴白宮緩解 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814764"
+            },
+            {
+              "title": "川普閉門開罵奏效 美參院2跑票議員歸隊封殺反戰決議 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5483810"
+            },
+            {
+              "title": "共同社：日人在中被拘  疑因試圖將稀土磁體加工出口 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862511"
+            }
+          ]
+        },
+        {
+          "title": "民進黨4前黨工工共諜案二審大逆轉 全改輕判高院曝",
+          "summary": "民進黨4前黨工工共諜案二審判決改訂，高院判黃取榮不變，法庭曝露案件與法律瑕疵。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無傷亡 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5484368"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "中東戰事加劇北約美國緊張 秘書長呂特親赴白宮緩解 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814764"
+            },
+            {
+              "title": "川普閉門開罵奏效 美參院2跑票議員歸隊封殺反戰決議 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5483810"
+            },
+            {
+              "title": "共同社：日人在中被拘  疑因試圖將稀土磁體加工出口 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862511"
+            }
+          ]
+        },
+        {
+          "title": "美國與波灣盟友強化對伊朗的安全合作",
+          "summary": "美國國務區盧比歐強調維護波灣出口能源安全，呼籲盟友支持，強化國際合作。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無傷亡 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5484368"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "中東戰事加劇北約美國緊張 秘書長呂特親赴白宮緩解 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814764"
+            },
+            {
+              "title": "川普閉門開罵奏效 美參院2跑票議員歸隊封殺反戰決議 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5483810"
+            },
+            {
+              "title": "共同社：日人在中被拘  疑因試圖將稀土磁體加工出口 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862511"
+            }
+          ]
+        },
+        {
+          "title": "中國對中國人員拘留，疑似涉及稀土加工",
+          "summary": "中國海關將日籍富士電機員工拘留，可能涉及將稀土磁體加工出口，引發國際與法規關注。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無傷亡 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5484368"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "中東戰事加劇北約美國緊張 秘書長呂特親赴白宮緩解 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814764"
+            },
+            {
+              "title": "川普閉門開罵奏效 美參院2跑票議員歸隊封殺反戰決議 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5483810"
+            },
+            {
+              "title": "共同社：日人在中被拘  疑因試圖將稀土磁體加工出口 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862511"
+            }
+          ]
+        },
+        {
+          "title": "美國對伊朗戰爭持穩立場，強調不支持美國退出",
+          "summary": "美國國務卿盧比歐強調不支持美國退出中國伊朗戰爭，呼籲維持國際合作與安全合作。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "伊朗革命衛隊幹的？荷姆茲海峽新航線貨輪遇襲 英軍：無傷亡 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5484368"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "中東戰事加劇北約美國緊張 秘書長呂特親赴白宮緩解 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814764"
+            },
+            {
+              "title": "川普閉門開罵奏效 美參院2跑票議員歸隊封殺反戰決議 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5483810"
+            },
+            {
+              "title": "共同社：日人在中被拘  疑因試圖將稀土磁體加工出口 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862511"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美光財報驚人爆發 股價狂飆 16% 帶動台股反彈逾 700 點",
+          "summary": "美光第三季營收 414.6 億美元、調整後 EPS 25.11 美元，遠超預期，股價盤後跳漲近 16%。此訊息提振記憶體概念股，台股開盤即上漲逾 700 點，南亞科、華邦電分別漲 7%。",
+          "category": "公司財報",
+          "sources": [
+            {
+              "title": "快訊／美光飆漲16%！蘋果重挫6%領跌那指　台指期跌485點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862533"
+            },
+            {
+              "title": "台股反攻漲逾700點！美光財報炸裂 記憶體南亞科、華邦電噴7％  - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001429-260410?ctrack=mo_main_headl_p01"
+            },
+            {
+              "title": "美光財測再報喜！220億美元長約鎖定HBM供應 AI需求看旺至2027年後",
+              "url": "https://www.technice.com.tw/issues/semicon/226822/"
+            },
+            {
+              "title": "新台幣摜破31.8元關卡 成交量再刷新史上第七大 - 金融 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701898-430302"
+            },
+            {
+              "title": "外資史詩級狂殺 內資增援 台股月線成關鍵 - 財經要聞 - 工商時報",
+              "url": "https://www.chinatimes.com/newspapers/20260625000215-260202"
+            }
+          ]
+        },
+        {
+          "title": "蘋果調高 MacBook、iPad 價格 股價重挫 6% 拖累 Nasdaq",
+          "summary": "蘋果因晶片與零組件成本上漲宣布調價，股價當日跌超 6%，成為 Nasdaq 走低主因。此舉也波及 Alphabet、Meta 等大型科技股，市場擔憂晶片漲價壓縮利潤。",
+          "category": "市場動態",
+          "sources": [
+            {
+              "title": "快訊／美光飆漲16%！蘋果重挫6%領跌那指　台指期跌485點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862533"
+            },
+            {
+              "title": "台股反攻漲逾700點！美光財報炸裂 記憶體南亞科、華邦電噴7％  - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001429-260410?ctrack=mo_main_headl_p01"
+            },
+            {
+              "title": "美光財測再報喜！220億美元長約鎖定HBM供應 AI需求看旺至2027年後",
+              "url": "https://www.technice.com.tw/issues/semicon/226822/"
+            },
+            {
+              "title": "新台幣摜破31.8元關卡 成交量再刷新史上第七大 - 金融 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701898-430302"
+            },
+            {
+              "title": "外資史詩級狂殺 內資增援 台股月線成關鍵 - 財經要聞 - 工商時報",
+              "url": "https://www.chinatimes.com/newspapers/20260625000215-260202"
+            }
+          ]
+        },
+        {
+          "title": "新台幣跌破 31.8 元關卡 成交量創史上第七大",
+          "summary": "受外資大規模賣出台股與匯出壓力，新台幣兌美元於上午突破 31.8 元，當日外匯成交量達 41.66 億美元，創下史上第七大單日成交量。",
+          "category": "匯率",
+          "sources": [
+            {
+              "title": "快訊／美光飆漲16%！蘋果重挫6%領跌那指　台指期跌485點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862533"
+            },
+            {
+              "title": "台股反攻漲逾700點！美光財報炸裂 記憶體南亞科、華邦電噴7％  - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001429-260410?ctrack=mo_main_headl_p01"
+            },
+            {
+              "title": "美光財測再報喜！220億美元長約鎖定HBM供應 AI需求看旺至2027年後",
+              "url": "https://www.technice.com.tw/issues/semicon/226822/"
+            },
+            {
+              "title": "新台幣摜破31.8元關卡 成交量再刷新史上第七大 - 金融 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701898-430302"
+            },
+            {
+              "title": "外資史詩級狂殺 內資增援 台股月線成關鍵 - 財經要聞 - 工商時報",
+              "url": "https://www.chinatimes.com/newspapers/20260625000215-260202"
+            }
+          ]
+        },
+        {
+          "title": "外資史詩級賣超 台股月線關鍵 45,195 點 成為支撐",
+          "summary": "外資連續兩日大幅賣出台股，單日賣超逾 1,700 億元，期貨淨空單突破 8 萬口。國家隊介入買超 394 億，協助台指守住 46,000 點關卡，月線 45,195 點被視為後市能否再攻 5 萬點的關鍵。",
+          "category": "資金流向",
+          "sources": [
+            {
+              "title": "快訊／美光飆漲16%！蘋果重挫6%領跌那指　台指期跌485點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862533"
+            },
+            {
+              "title": "台股反攻漲逾700點！美光財報炸裂 記憶體南亞科、華邦電噴7％  - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001429-260410?ctrack=mo_main_headl_p01"
+            },
+            {
+              "title": "美光財測再報喜！220億美元長約鎖定HBM供應 AI需求看旺至2027年後",
+              "url": "https://www.technice.com.tw/issues/semicon/226822/"
+            },
+            {
+              "title": "新台幣摜破31.8元關卡 成交量再刷新史上第七大 - 金融 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701898-430302"
+            },
+            {
+              "title": "外資史詩級狂殺 內資增援 台股月線成關鍵 - 財經要聞 - 工商時報",
+              "url": "https://www.chinatimes.com/newspapers/20260625000215-260202"
+            }
+          ]
+        },
+        {
+          "title": "美光簽下 220 億美元 HBM 長期供貨合約 展望 AI 記憶體需求至 2027 年",
+          "summary": "美光公布與 16 家策略客戶簽署總額 220 億美元的 HBM 長期供貨協議，預計 AI 資料中心需求持續緊俏，並預測供給緊張將延續至 2027 年後，提升公司未來營收前景。",
+          "category": "產業分析",
+          "sources": [
+            {
+              "title": "快訊／美光飆漲16%！蘋果重挫6%領跌那指　台指期跌485點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1862533"
+            },
+            {
+              "title": "台股反攻漲逾700點！美光財報炸裂 記憶體南亞科、華邦電噴7％  - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260625001429-260410?ctrack=mo_main_headl_p01"
+            },
+            {
+              "title": "美光財測再報喜！220億美元長約鎖定HBM供應 AI需求看旺至2027年後",
+              "url": "https://www.technice.com.tw/issues/semicon/226822/"
+            },
+            {
+              "title": "新台幣摜破31.8元關卡 成交量再刷新史上第七大 - 金融 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701898-430302"
+            },
+            {
+              "title": "外資史詩級狂殺 內資增援 台股月線成關鍵 - 財經要聞 - 工商時報",
+              "url": "https://www.chinatimes.com/newspapers/20260625000215-260202"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "台灣政府宣布全台停班停課，因豪雨及風暴，影響通勤",
+          "summary": "2026年6月26日，台灣各縣市因豪雨及強風，多地宣布全台停班停課，影響通勤和上課。",
+          "category": "社會",
+          "sources": [
+            {
+              "title": "明天6/26會放豪雨假？2縣市地區停班停課！6縣市達標，最新雨量預測、全台放假資訊一覽 | 蔡惠芯 | 風生活 - 風傳媒",
+              "url": "https://www.storm.mg/lifestyle/11144585"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "6 月 26 日颱風停班停課最新一覽：臺南、高雄、屏東三縣市全境停班停課｜APPI News",
+              "url": "https://appi.news/articles/typhoon-closures-kaohsiung-pingtung-chiayi/"
+            },
+            {
+              "title": "總統：中國才是改變台海現狀的破壞者 台灣自我防衛「絕不是挑釁」 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5483923"
+            },
+            {
+              "title": "反制中共海上脅迫　總統提落實必要驅離措施等4重點 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606253048140.html"
+            }
+          ]
+        },
+        {
+          "title": "高雄市政府全面停止上班，因台風停班停課",
+          "summary": "高雄市政府宣布全市停止上班，因台風停班停課，影響居民日常生活。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "明天6/26會放豪雨假？2縣市地區停班停課！6縣市達標，最新雨量預測、全台放假資訊一覽 | 蔡惠芯 | 風生活 - 風傳媒",
+              "url": "https://www.storm.mg/lifestyle/11144585"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "6 月 26 日颱風停班停課最新一覽：臺南、高雄、屏東三縣市全境停班停課｜APPI News",
+              "url": "https://appi.news/articles/typhoon-closures-kaohsiung-pingtung-chiayi/"
+            },
+            {
+              "title": "總統：中國才是改變台海現狀的破壞者 台灣自我防衛「絕不是挑釁」 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5483923"
+            },
+            {
+              "title": "反制中共海上脅迫　總統提落實必要驅離措施等4重點 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606253048140.html"
+            }
+          ]
+        },
+        {
+          "title": "台北市未宣布全台停班停課，部分地區仍通勤",
+          "summary": "台北市未宣布全台停班停課，部分地區通勤正常，部分居民仍需注意天氣變化。",
+          "category": "地區",
+          "sources": [
+            {
+              "title": "明天6/26會放豪雨假？2縣市地區停班停課！6縣市達標，最新雨量預測、全台放假資訊一覽 | 蔡惠芯 | 風生活 - 風傳媒",
+              "url": "https://www.storm.mg/lifestyle/11144585"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "6 月 26 日颱風停班停課最新一覽：臺南、高雄、屏東三縣市全境停班停課｜APPI News",
+              "url": "https://appi.news/articles/typhoon-closures-kaohsiung-pingtung-chiayi/"
+            },
+            {
+              "title": "總統：中國才是改變台海現狀的破壞者 台灣自我防衛「絕不是挑釁」 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5483923"
+            },
+            {
+              "title": "反制中共海上脅迫　總統提落實必要驅離措施等4重點 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606253048140.html"
+            }
+          ]
+        },
+        {
+          "title": "台灣自我防衛委員會強化防衛措施，對台海安全進行模擬",
+          "summary": "台灣自我防衛委員會今日強調強化防衛措施，進行模擬演習，提升國家安全防御能力。",
+          "category": "安全",
+          "sources": [
+            {
+              "title": "明天6/26會放豪雨假？2縣市地區停班停課！6縣市達標，最新雨量預測、全台放假資訊一覽 | 蔡惠芯 | 風生活 - 風傳媒",
+              "url": "https://www.storm.mg/lifestyle/11144585"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "6 月 26 日颱風停班停課最新一覽：臺南、高雄、屏東三縣市全境停班停課｜APPI News",
+              "url": "https://appi.news/articles/typhoon-closures-kaohsiung-pingtung-chiayi/"
+            },
+            {
+              "title": "總統：中國才是改變台海現狀的破壞者 台灣自我防衛「絕不是挑釁」 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5483923"
+            },
+            {
+              "title": "反制中共海上脅迫　總統提落實必要驅離措施等4重點 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606253048140.html"
+            }
+          ]
+        },
+        {
+          "title": "中國威權擴張引發國際社會不安，台灣強化國防",
+          "summary": "中國近期行動引發國際懷疑，台灣強化國防，警醒國民與國際社會。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "明天6/26會放豪雨假？2縣市地區停班停課！6縣市達標，最新雨量預測、全台放假資訊一覽 | 蔡惠芯 | 風生活 - 風傳媒",
+              "url": "https://www.storm.mg/lifestyle/11144585"
+            },
+            {
+              "title": "民進黨4前黨工共諜案二審大逆轉 全改輕判高院曝原因 - 社會 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5484219"
+            },
+            {
+              "title": "6 月 26 日颱風停班停課最新一覽：臺南、高雄、屏東三縣市全境停班停課｜APPI News",
+              "url": "https://appi.news/articles/typhoon-closures-kaohsiung-pingtung-chiayi/"
+            },
+            {
+              "title": "總統：中國才是改變台海現狀的破壞者 台灣自我防衛「絕不是挑釁」 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5483923"
+            },
+            {
+              "title": "反制中共海上脅迫　總統提落實必要驅離措施等4重點 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606253048140.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

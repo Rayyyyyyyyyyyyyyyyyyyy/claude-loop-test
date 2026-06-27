@@ -1,0 +1,573 @@
+{
+  "date": "2026-06-27",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "OpenAI堅守1兆美元估值 傳IPO將延至2027年",
+          "summary": "OpenAI計劃將首次公開募股（IPO）推遲至2027年，並維持1兆美元的估值目標。公司已秘密提交申請，並在內部討論兩種上市選項，最終決定不降低估值。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "OpenAI堅守1兆美元估值　傳IPO將延至2027年 | 科技 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/ait/202606260185.aspx"
+            },
+            {
+              "title": "應川普政府要求，OpenAI 模型延後推出、逐一審核早期客戶資格 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/26/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+            },
+            {
+              "title": "IBM發表全球首項0.7奈米晶片技術 瞄準AI運算、最快五年後量產",
+              "url": "https://www.technice.com.tw/issues/semicon/226962/"
+            },
+            {
+              "title": "《科技》高通拿下Meta大單 Dragonfly C1000拚2028量產 - 產業 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626700863-430503"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI 模型延後推出，逐一審核早期客戶資格",
+          "summary": "在川普政府要求下，OpenAI將GPT‑5.6模型先行限量釋出給經過挑選的合作夥伴，並由政府逐一審核客戶資格，計畫在數週後進行更廣泛的公開發布。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "OpenAI堅守1兆美元估值　傳IPO將延至2027年 | 科技 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/ait/202606260185.aspx"
+            },
+            {
+              "title": "應川普政府要求，OpenAI 模型延後推出、逐一審核早期客戶資格 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/26/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+            },
+            {
+              "title": "IBM發表全球首項0.7奈米晶片技術 瞄準AI運算、最快五年後量產",
+              "url": "https://www.technice.com.tw/issues/semicon/226962/"
+            },
+            {
+              "title": "《科技》高通拿下Meta大單 Dragonfly C1000拚2028量產 - 產業 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626700863-430503"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            }
+          ]
+        },
+        {
+          "title": "IBM發表全球首項0.7奈米晶片技術",
+          "summary": "IBM推出0.7奈米（7埃）電晶體技術，採用三維立體堆疊的Nanostack架構，預計可提升AI運算密度並降低功耗，最快五年後量產。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "OpenAI堅守1兆美元估值　傳IPO將延至2027年 | 科技 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/ait/202606260185.aspx"
+            },
+            {
+              "title": "應川普政府要求，OpenAI 模型延後推出、逐一審核早期客戶資格 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/26/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+            },
+            {
+              "title": "IBM發表全球首項0.7奈米晶片技術 瞄準AI運算、最快五年後量產",
+              "url": "https://www.technice.com.tw/issues/semicon/226962/"
+            },
+            {
+              "title": "《科技》高通拿下Meta大單 Dragonfly C1000拚2028量產 - 產業 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626700863-430503"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            }
+          ]
+        },
+        {
+          "title": "高通與Meta簽署資料中心CPU多世代合作協議",
+          "summary": "高通將成為Meta資料中心CPU供應商，首款Qualcomm Dragonfly C1000 CPU預計於2028年下半年量產，旨在支援Meta擴展AI運算需求。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "OpenAI堅守1兆美元估值　傳IPO將延至2027年 | 科技 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/ait/202606260185.aspx"
+            },
+            {
+              "title": "應川普政府要求，OpenAI 模型延後推出、逐一審核早期客戶資格 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/26/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+            },
+            {
+              "title": "IBM發表全球首項0.7奈米晶片技術 瞄準AI運算、最快五年後量產",
+              "url": "https://www.technice.com.tw/issues/semicon/226962/"
+            },
+            {
+              "title": "《科技》高通拿下Meta大單 Dragonfly C1000拚2028量產 - 產業 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626700863-430503"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            }
+          ]
+        },
+        {
+          "title": "AI熱潮急凍？OpenAI傳延後上市，科技股慘跌",
+          "summary": "隨OpenAI推遲IPO及模型發布，市場對AI熱潮的熱情降溫，科技股普遍下跌，投資者對AI產業的估值進入修正期。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "OpenAI堅守1兆美元估值　傳IPO將延至2027年 | 科技 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/ait/202606260185.aspx"
+            },
+            {
+              "title": "應川普政府要求，OpenAI 模型延後推出、逐一審核早期客戶資格 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/26/openai-will-delay-gpt-5-6-after-trump-administration-request/"
+            },
+            {
+              "title": "IBM發表全球首項0.7奈米晶片技術 瞄準AI運算、最快五年後量產",
+              "url": "https://www.technice.com.tw/issues/semicon/226962/"
+            },
+            {
+              "title": "《科技》高通拿下Meta大單 Dragonfly C1000拚2028量產 - 產業 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626700863-430503"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "綜合新聞 最新政治與國際動向",
+          "summary": "今日國際與國內多場重要事件連結，涉及中東緊張、美伊停火協議及台灣安全局勢。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "(黎)巴嫩、以色列與美國簽署三方框架協議　為和平鋪路 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260627/index-17825056332699118011.html"
+            },
+            {
+              "title": "貨輪疑遭伊朗無人機偷襲　聯合國緊急叫停荷姆茲海峽「撤離計畫」",
+              "url": "https://www.mnews.tw/story/20260626nm006"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimf7140660.shtml"
+            },
+            {
+              "title": "Yahoo新聞",
+              "url": "https://tw.news.yahoo.com/"
+            }
+          ]
+        },
+        {
+          "title": "美國特朗普指控伊朗破壞停火協定",
+          "summary": "美國總統特朗普指责伊朗違反停火協議，強調停火協議脆弱，引發全球市場震動。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "(黎)巴嫩、以色列與美國簽署三方框架協議　為和平鋪路 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260627/index-17825056332699118011.html"
+            },
+            {
+              "title": "貨輪疑遭伊朗無人機偷襲　聯合國緊急叫停荷姆茲海峽「撤離計畫」",
+              "url": "https://www.mnews.tw/story/20260626nm006"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimf7140660.shtml"
+            },
+            {
+              "title": "Yahoo新聞",
+              "url": "https://tw.news.yahoo.com/"
+            }
+          ]
+        },
+        {
+          "title": "中國與台灣對話，強調和平進程",
+          "summary": "中國表示不干預，台灣強調主權與安全，對美國與中國的互動展現深度緊張。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "(黎)巴嫩、以色列與美國簽署三方框架協議　為和平鋪路 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260627/index-17825056332699118011.html"
+            },
+            {
+              "title": "貨輪疑遭伊朗無人機偷襲　聯合國緊急叫停荷姆茲海峽「撤離計畫」",
+              "url": "https://www.mnews.tw/story/20260626nm006"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimf7140660.shtml"
+            },
+            {
+              "title": "Yahoo新聞",
+              "url": "https://tw.news.yahoo.com/"
+            }
+          ]
+        },
+        {
+          "title": "美伊停火協議進展，國際協議進展",
+          "summary": "美伊國家在霍爾木兹海峽進行停火協議，對全球航運與能源安全產生影響。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "(黎)巴嫩、以色列與美國簽署三方框架協議　為和平鋪路 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260627/index-17825056332699118011.html"
+            },
+            {
+              "title": "貨輪疑遭伊朗無人機偷襲　聯合國緊急叫停荷姆茲海峽「撤離計畫」",
+              "url": "https://www.mnews.tw/story/20260626nm006"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimf7140660.shtml"
+            },
+            {
+              "title": "Yahoo新聞",
+              "url": "https://tw.news.yahoo.com/"
+            }
+          ]
+        },
+        {
+          "title": "台灣警戒態勢升高，天氣警報發布",
+          "summary": "台灣多區遭受強降雨，警方發布災害警報，提醒民眾注意安全。",
+          "category": "綜合新聞",
+          "sources": [
+            {
+              "title": "(黎)巴嫩、以色列與美國簽署三方框架協議　為和平鋪路 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260627/index-17825056332699118011.html"
+            },
+            {
+              "title": "貨輪疑遭伊朗無人機偷襲　聯合國緊急叫停荷姆茲海峽「撤離計畫」",
+              "url": "https://www.mnews.tw/story/20260626nm006"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimf7140660.shtml"
+            },
+            {
+              "title": "Yahoo新聞",
+              "url": "https://tw.news.yahoo.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "外資賣超1431億 台股重挫1683點",
+          "summary": "台股27日重挫1683點，外資賣超1431億元，創史上第二大賣超規模，主動型ETF、高息ETF及面板股遭大量減碼。",
+          "category": "台灣股市",
+          "sources": [
+            {
+              "title": "外資賣超1431億史上第2大　法人：期現貨避險套利操作 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606260302.aspx"
+            },
+            {
+              "title": "台股暴跌只是洗盤 除權息旺季8成還會漲？ - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260627000002-260410"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            },
+            {
+              "title": "三大法人提款2千億！台股重摔後的下一步？專家一致建議先做這件事 - 證券 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626701456-430201"
+            },
+            {
+              "title": "外資4天提款近4000億！新台幣連3黑  面臨31字頭保衛戰 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5485275"
+            }
+          ]
+        },
+        {
+          "title": "AI熱潮急凍？華爾街預估科技股修正期",
+          "summary": "華爾街指出AI產業可能進入修正期，OpenAI上市延後傳聞引發科技股慘跌，市場對AI評價過高的疑慮升溫。",
+          "category": "全球科技股",
+          "sources": [
+            {
+              "title": "外資賣超1431億史上第2大　法人：期現貨避險套利操作 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606260302.aspx"
+            },
+            {
+              "title": "台股暴跌只是洗盤 除權息旺季8成還會漲？ - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260627000002-260410"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            },
+            {
+              "title": "三大法人提款2千億！台股重摔後的下一步？專家一致建議先做這件事 - 證券 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626701456-430201"
+            },
+            {
+              "title": "外資4天提款近4000億！新台幣連3黑  面臨31字頭保衛戰 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5485275"
+            }
+          ]
+        },
+        {
+          "title": "台積電、鴻海等電子權值股重挫 千元高價股綠油油",
+          "summary": "台積電跌停、鴻海跌幅約3%，電子權值股全面走弱，千元高價股連續下跌，市場資金避險情緒明顯。",
+          "category": "台灣電子產業",
+          "sources": [
+            {
+              "title": "外資賣超1431億史上第2大　法人：期現貨避險套利操作 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606260302.aspx"
+            },
+            {
+              "title": "台股暴跌只是洗盤 除權息旺季8成還會漲？ - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260627000002-260410"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            },
+            {
+              "title": "三大法人提款2千億！台股重摔後的下一步？專家一致建議先做這件事 - 證券 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626701456-430201"
+            },
+            {
+              "title": "外資4天提款近4000億！新台幣連3黑  面臨31字頭保衛戰 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5485275"
+            }
+          ]
+        },
+        {
+          "title": "美國5月PCE數據符合預期 美股震盪加劇",
+          "summary": "美國5月個人消費支出物價指數（PCE）符合預期，但市場對聯準會升息疑慮持續，美股走弱拖累亞洲市場。",
+          "category": "全球經濟",
+          "sources": [
+            {
+              "title": "外資賣超1431億史上第2大　法人：期現貨避險套利操作 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606260302.aspx"
+            },
+            {
+              "title": "台股暴跌只是洗盤 除權息旺季8成還會漲？ - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260627000002-260410"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            },
+            {
+              "title": "三大法人提款2千億！台股重摔後的下一步？專家一致建議先做這件事 - 證券 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626701456-430201"
+            },
+            {
+              "title": "外資4天提款近4000億！新台幣連3黑  面臨31字頭保衛戰 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5485275"
+            }
+          ]
+        },
+        {
+          "title": "上市櫃公司5月營收達5.26兆元 創歷史新高",
+          "summary": "台灣上市櫃公司5月營收達5.26兆元，月增0.8%、年增34%，AI需求推動產業表現強勁。",
+          "category": "台灣產業經濟",
+          "sources": [
+            {
+              "title": "外資賣超1431億史上第2大　法人：期現貨避險套利操作 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202606260302.aspx"
+            },
+            {
+              "title": "台股暴跌只是洗盤 除權息旺季8成還會漲？ - 財經 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260627000002-260410"
+            },
+            {
+              "title": "AI 熱潮急凍？OpenAI 傳延後上市、科技股慘跌　華爾街估「AI 瘋牛」進入修正期",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225892"
+            },
+            {
+              "title": "三大法人提款2千億！台股重摔後的下一步？專家一致建議先做這件事 - 證券 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260626701456-430201"
+            },
+            {
+              "title": "外資4天提款近4000億！新台幣連3黑  面臨31字頭保衛戰 - 自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5485275"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "豪雨釀全台134處未退水 卓榮泰促檢視抽水設備",
+          "summary": "行政院長卓榮泰指出全台仍有134處積水未退，呼籲地方檢視抽水設備及移動式抽水機是否足夠，並監控水庫濁度與萬里溪堰塞湖情形。",
+          "category": "災害",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "藍白封殺政院版無人機特別條例　立院暫緩列案 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260117.aspx"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "治水無效？台南、高屏：雨勢逾防洪標準 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9591543?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "愛爾麗總裁常如山遭求刑14年　新北地院將開接押庭 | 社會 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/asoc/202606260147.aspx"
+            }
+          ]
+        },
+        {
+          "title": "藍白封殺政院版無人機特別條例 立院暫緩列案",
+          "summary": "立法院藍白兩黨團提議暫緩行政院所提國防自主無人載具採購特別條例草案，表決通過，案件暫緩付委審查。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "藍白封殺政院版無人機特別條例　立院暫緩列案 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260117.aspx"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "治水無效？台南、高屏：雨勢逾防洪標準 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9591543?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "愛爾麗總裁常如山遭求刑14年　新北地院將開接押庭 | 社會 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/asoc/202606260147.aspx"
+            }
+          ]
+        },
+        {
+          "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由",
+          "summary": "高等法院二審將民進黨前黨工等四人涉共諜案刑度減輕，國民黨團要求公開判決理由並檢討國安案審查標準。",
+          "category": "司法",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "藍白封殺政院版無人機特別條例　立院暫緩列案 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260117.aspx"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "治水無效？台南、高屏：雨勢逾防洪標準 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9591543?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "愛爾麗總裁常如山遭求刑14年　新北地院將開接押庭 | 社會 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/asoc/202606260147.aspx"
+            }
+          ]
+        },
+        {
+          "title": "治水無效？台南、高屏：雨勢逾防洪標準",
+          "summary": "台南、高雄、屏東指出此次豪雨雨量超過現行防洪設計標準，雖曾投入數百億治水經費仍難以完全防災，將向中央爭取更多經費。",
+          "category": "環境",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "藍白封殺政院版無人機特別條例　立院暫緩列案 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260117.aspx"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "治水無效？台南、高屏：雨勢逾防洪標準 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9591543?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "愛爾麗總裁常如山遭求刑14年　新北地院將開接押庭 | 社會 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/asoc/202606260147.aspx"
+            }
+          ]
+        },
+        {
+          "title": "愛爾麗總裁常如山遭求刑14年 新北地院將開接押庭",
+          "summary": "新北地檢署起訴愛爾麗診所總裁常如山等7人涉偷拍兒少性影像，求刑14年以上，案件將於新北地院開庭決定羈押或交保。",
+          "category": "社會",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "藍白封殺政院版無人機特別條例　立院暫緩列案 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260117.aspx"
+            },
+            {
+              "title": "綠營前黨工共諜案全改判輕 藍黨團喊話高院公開完整判決理由 - 政治 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5484921"
+            },
+            {
+              "title": "治水無效？台南、高屏：雨勢逾防洪標準 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9591543?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "愛爾麗總裁常如山遭求刑14年　新北地院將開接押庭 | 社會 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/asoc/202606260147.aspx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

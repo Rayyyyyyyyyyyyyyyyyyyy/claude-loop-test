@@ -1,0 +1,573 @@
+{
+  "date": "2026-06-28",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "台股暴跌1683點 外資四天賣超近4000億 AI泡沫警訊引發槓桿斷頭危機",
+          "summary": "台股單日重挫1683點收44,571點，跌幅3.64%創歷史第三大跌點；外資單日賣超1432億、四天累計近4000億。市場從「相信AI故事」轉向「要求獲利兌現」，加上「六貸同堂」高槓桿族群面臨斷頭壓力，暴露AI繁榮下的財富K型分化與系統性風險。",
+          "category": "股市/金融",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI亮底牌！聯手博通發表AI晶片Jalapeño，如何9個月造出「史上最快投片ASIC」？|數位時代 BusinessNext",
+              "url": "https://www.bnext.com.tw/article/91326/openai-broadcom-jalapeno-2026"
+            },
+            {
+              "title": "高通推Dragonfly進軍AI資料中心　逾35家夥伴打造生態系、點名10家台廠｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260626/7C181734DC6F8B47693C0743453467F8"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI攜手博通發表首款自研AI晶片Jalapeño 9個月完成投片成本較GPU降半",
+          "summary": "OpenAI與博通合作推出首款客製化推論晶片Jalapeño，由台積電代工，開發週期僅9個月創高效能ASIC最快紀錄。早期測試顯示每瓦效能優於頂尖GPU，成本估計降低約50%，年底前將部署於微軟等合作夥伴資料中心，標誌OpenAI邁向全棧基礎設施公司。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI亮底牌！聯手博通發表AI晶片Jalapeño，如何9個月造出「史上最快投片ASIC」？|數位時代 BusinessNext",
+              "url": "https://www.bnext.com.tw/article/91326/openai-broadcom-jalapeno-2026"
+            },
+            {
+              "title": "高通推Dragonfly進軍AI資料中心　逾35家夥伴打造生態系、點名10家台廠｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260626/7C181734DC6F8B47693C0743453467F8"
+            }
+          ]
+        },
+        {
+          "title": "高通推Dragonfly平台進軍AI資料中心 逾35家夥伴含10大台廠打造生態系",
+          "summary": "高通發表Dragonfly C1000 CPU、AI300推論加速器及高頻寬運算架構，鎖定代理式AI推論需求，強調低功耗、低TCO優勢。已獲Meta簽署多世代協議，並聯合仁寶、鴻海、廣達等10家台廠及超過35家全球夥伴建立生態系，預計2027-2028年商用。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI亮底牌！聯手博通發表AI晶片Jalapeño，如何9個月造出「史上最快投片ASIC」？|數位時代 BusinessNext",
+              "url": "https://www.bnext.com.tw/article/91326/openai-broadcom-jalapeno-2026"
+            },
+            {
+              "title": "高通推Dragonfly進軍AI資料中心　逾35家夥伴打造生態系、點名10家台廠｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260626/7C181734DC6F8B47693C0743453467F8"
+            }
+          ]
+        },
+        {
+          "title": "AI黃金潮下半場：華爾街重押「賣鏟人」 從晶片股暴起暴落看供應鏈價值重估",
+          "summary": "Anthropic解禁、晶片股劇烈波動後，資金轉向掌握核心技術、具備穩定現金流的供應鏈關鍵廠商。市場不再為純概念買單，要求企業展現獲利兌現能力；台灣需從代工思維轉向價值創新，深化上游材料設備與下游系統整合，才能在AI驗證階段勝出。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI亮底牌！聯手博通發表AI晶片Jalapeño，如何9個月造出「史上最快投片ASIC」？|數位時代 BusinessNext",
+              "url": "https://www.bnext.com.tw/article/91326/openai-broadcom-jalapeno-2026"
+            },
+            {
+              "title": "高通推Dragonfly進軍AI資料中心　逾35家夥伴打造生態系、點名10家台廠｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260626/7C181734DC6F8B47693C0743453467F8"
+            }
+          ]
+        },
+        {
+          "title": "台灣經濟成長率預估9.64%卻無感 K型分化下AI紅利難惠及傳統產業",
+          "summary": "主計總處預估2026年成長率達9.64%創近半世紀高點，但科技園區繁榮與傳統商圈冷清形成嚴重K型分化。財富集中於數十萬高科技從業者，超過1200萬就業人口未同步受惠，政府需推動產業轉型、職業再訓練與區域均衡，避免財富高度集中引發社會結構性張力。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "《國際產業》交台積電代工！OpenAI揪博通打造首款AI客製化晶片 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260625701692-430701"
+            },
+            {
+              "title": "OpenAI亮底牌！聯手博通發表AI晶片Jalapeño，如何9個月造出「史上最快投片ASIC」？|數位時代 BusinessNext",
+              "url": "https://www.bnext.com.tw/article/91326/openai-broadcom-jalapeno-2026"
+            },
+            {
+              "title": "高通推Dragonfly進軍AI資料中心　逾35家夥伴打造生態系、點名10家台廠｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260626/7C181734DC6F8B47693C0743453467F8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美國空襲伊朗軍事目標 范斯警告暴力將招致暴力回應",
+          "summary": "美國對伊朗襲擊商船事件進行報復，鎖定伊朗導彈與無人機儲存設施及沿岸雷達站。副總統范斯在社群平台上警告，若伊朗對停火協議有異議，應透過溝通解決，切勿以暴力回應。伊朗則宣稱此次襲擊是「停火管理」，並警告將加強反擊。",
+          "category": "國際/政治",
+          "sources": [
+            {
+              "title": "美報復伊朗襲船 范斯：暴力將導致暴力回應 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260628000095-260417?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "委內瑞拉強震增至920死！民眾徒手挖人不滿政府反應遲鈍 | 委內瑞拉連環震 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124933/9591754"
+            },
+            {
+              "title": "美报复空袭伊朗阵地，伊朗称袭船是“停火管理”",
+              "url": "https://www.163.com/dy/article/L0G0H13I05561FZQ.html?f=post2020_dy_recommends"
+            },
+            {
+              "title": "Google 新聞",
+              "url": "https://news.google.com.tw/"
+            },
+            {
+              "title": "自由時報電子報",
+              "url": "https://www.ltn.com.tw/"
+            }
+          ]
+        },
+        {
+          "title": "委內瑞拉強震死亡人數增至920 民眾徒手挖人 政府救災緩慢引不滿",
+          "summary": "連續兩起規模7以上地震重創委內瑞拉北部，造成逾900人死亡、3360人受傷，多棟建築倒塌。災後當局救災行動緩慢，民眾只能徒手搜救受困者，引發民眾憤怒。國際救援人員也指出，當地基礎設施破敗，政府準備不足。",
+          "category": "社會/國際",
+          "sources": [
+            {
+              "title": "美報復伊朗襲船 范斯：暴力將導致暴力回應 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260628000095-260417?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "委內瑞拉強震增至920死！民眾徒手挖人不滿政府反應遲鈍 | 委內瑞拉連環震 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124933/9591754"
+            },
+            {
+              "title": "美报复空袭伊朗阵地，伊朗称袭船是“停火管理”",
+              "url": "https://www.163.com/dy/article/L0G0H13I05561FZQ.html?f=post2020_dy_recommends"
+            },
+            {
+              "title": "Google 新聞",
+              "url": "https://news.google.com.tw/"
+            },
+            {
+              "title": "自由時報電子報",
+              "url": "https://www.ltn.com.tw/"
+            }
+          ]
+        },
+        {
+          "title": "伊朗稱襲擊商船為『停火管理』 美伊緊張升溫",
+          "summary": "伊朗伊斯蘭革命衛隊聲稱對新加坡旗商船的襲擊是「停火管理」，並警告若侵略行為再發生，將更猛烈回應。美國則反指伊朗違反停火協議，並已對伊朗軍事目標進行空襲。兩國之間的脆弱停火協議面臨嚴重考驗。",
+          "category": "國際/政治",
+          "sources": [
+            {
+              "title": "美報復伊朗襲船 范斯：暴力將導致暴力回應 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260628000095-260417?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "委內瑞拉強震增至920死！民眾徒手挖人不滿政府反應遲鈍 | 委內瑞拉連環震 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124933/9591754"
+            },
+            {
+              "title": "美报复空袭伊朗阵地，伊朗称袭船是“停火管理”",
+              "url": "https://www.163.com/dy/article/L0G0H13I05561FZQ.html?f=post2020_dy_recommends"
+            },
+            {
+              "title": "Google 新聞",
+              "url": "https://news.google.com.tw/"
+            },
+            {
+              "title": "自由時報電子報",
+              "url": "https://www.ltn.com.tw/"
+            }
+          ]
+        },
+        {
+          "title": "北京呼籲盡快恢復霍爾木茲海峽通航 王毅表態",
+          "summary": "中國外交部長王毅表示，希望各方盡快恢復霍爾木茲海峽的航行安全，以緩解區域緊張局勢。此一表態與美國、伊朗之間的軍事對峙形成對比，國際社會關注海峽局勢發展。",
+          "category": "國際/政治",
+          "sources": [
+            {
+              "title": "美報復伊朗襲船 范斯：暴力將導致暴力回應 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260628000095-260417?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "委內瑞拉強震增至920死！民眾徒手挖人不滿政府反應遲鈍 | 委內瑞拉連環震 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124933/9591754"
+            },
+            {
+              "title": "美报复空袭伊朗阵地，伊朗称袭船是“停火管理”",
+              "url": "https://www.163.com/dy/article/L0G0H13I05561FZQ.html?f=post2020_dy_recommends"
+            },
+            {
+              "title": "Google 新聞",
+              "url": "https://news.google.com.tw/"
+            },
+            {
+              "title": "自由時報電子報",
+              "url": "https://www.ltn.com.tw/"
+            }
+          ]
+        },
+        {
+          "title": "聯合國海事組織暫停疏散滯留霍爾木茲海峽船隻 局勢仍不穩定",
+          "summary": "聯合國國際海事組織本週啟動行動，讓滯留海峽的船隻改走阿曼海岸航線，但週四的襲擊事件後，疏散工作被迫暫停。約115艘船隻已離開，約500艘仍滯留。炮火聲中，永久停火談判仍未取得突破。",
+          "category": "國際/政治",
+          "sources": [
+            {
+              "title": "美報復伊朗襲船 范斯：暴力將導致暴力回應 - 軍事 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260628000095-260417?ctrack=pc_main_rtime_p02"
+            },
+            {
+              "title": "委內瑞拉強震增至920死！民眾徒手挖人不滿政府反應遲鈍 | 委內瑞拉連環震 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124933/9591754"
+            },
+            {
+              "title": "美报复空袭伊朗阵地，伊朗称袭船是“停火管理”",
+              "url": "https://www.163.com/dy/article/L0G0H13I05561FZQ.html?f=post2020_dy_recommends"
+            },
+            {
+              "title": "Google 新聞",
+              "url": "https://news.google.com.tw/"
+            },
+            {
+              "title": "自由時報電子報",
+              "url": "https://www.ltn.com.tw/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "台股暴跌1683點，外資賣超1432億，市場恐慌升溫",
+          "summary": "台灣加權指數在6月26日大幅下挫1683點，跌幅3.64%，創歷史第三大單日跌點。外資四天累計賣超近4000億元，成交量突破1.54兆元，顯示市場情緒急劇惡化。",
+          "category": "股市",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "收盤／戰火拖垮台股！收盤爆天量重挫620點　盤中震盪1718點嚇崩市場 | 三立iNEWS | 三立新聞網 SETN.COM",
+              "url": "https://inews.setn.com/news/1846359"
+            },
+            {
+              "title": "政院：對台非半導體232關稅優惠　美國正式公告 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280349.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "美國與伊朗再度交火　國際油價反彈亞股多收黑 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280275.aspx"
+            }
+          ]
+        },
+        {
+          "title": "美國對台非半導體232關稅優惠正式公告，汽車零組件稅率降至15%",
+          "summary": "美國於聯邦公報正式公布對台灣非半導體產品的232關稅優惠，汽車零組件進口稅率降至15%，與墨西哥等國相同。此舉預計將提升台灣汽車零組件業者競爭力，股價亦因利好而上揚。",
+          "category": "國際貿易",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "收盤／戰火拖垮台股！收盤爆天量重挫620點　盤中震盪1718點嚇崩市場 | 三立iNEWS | 三立新聞網 SETN.COM",
+              "url": "https://inews.setn.com/news/1846359"
+            },
+            {
+              "title": "政院：對台非半導體232關稅優惠　美國正式公告 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280349.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "美國與伊朗再度交火　國際油價反彈亞股多收黑 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280275.aspx"
+            }
+          ]
+        },
+        {
+          "title": "美伊再度交火，國際油價反彈，亞股多收黑",
+          "summary": "美國對伊朗發動空襲後，伊朗伊斯蘭革命衛隊攻擊美軍基地，導致中東局勢升溫。油價隨之反彈，亞洲股市多數收黑，市場避險情緒升高。",
+          "category": "國際局勢",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "收盤／戰火拖垮台股！收盤爆天量重挫620點　盤中震盪1718點嚇崩市場 | 三立iNEWS | 三立新聞網 SETN.COM",
+              "url": "https://inews.setn.com/news/1846359"
+            },
+            {
+              "title": "政院：對台非半導體232關稅優惠　美國正式公告 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280349.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "美國與伊朗再度交火　國際油價反彈亞股多收黑 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280275.aspx"
+            }
+          ]
+        },
+        {
+          "title": "台積電、聯發科等電子股尾盤被壓，市場信心受挫",
+          "summary": "台積電收盤下跌0.22%，聯發科下跌4.96%，多家電子股遭調節。投資人對高估值的AI與半導體股持謹慎態度，市場情緒受到影響。",
+          "category": "股市",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "收盤／戰火拖垮台股！收盤爆天量重挫620點　盤中震盪1718點嚇崩市場 | 三立iNEWS | 三立新聞網 SETN.COM",
+              "url": "https://inews.setn.com/news/1846359"
+            },
+            {
+              "title": "政院：對台非半導體232關稅優惠　美國正式公告 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280349.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "美國與伊朗再度交火　國際油價反彈亞股多收黑 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280275.aspx"
+            }
+          ]
+        },
+        {
+          "title": "AI黃金潮引發晶片股波動，華爾街重押「賣鏟人」",
+          "summary": "隨著Anthropic解禁及AI熱潮，晶片股先升後跌，華爾街投資者開始重押賣出策略。市場對AI投資的熱情與風險共存，投資者需謹慎評估。",
+          "category": "產業趨勢",
+          "sources": [
+            {
+              "title": "AI黃金潮誰撿到金？從Anthropic解禁到晶片股暴起暴落，華爾街忙著重押「賣鏟人」",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1225989"
+            },
+            {
+              "title": "收盤／戰火拖垮台股！收盤爆天量重挫620點　盤中震盪1718點嚇崩市場 | 三立iNEWS | 三立新聞網 SETN.COM",
+              "url": "https://inews.setn.com/news/1846359"
+            },
+            {
+              "title": "政院：對台非半導體232關稅優惠　美國正式公告 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280349.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "美國與伊朗再度交火　國際油價反彈亞股多收黑 | 證券 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605280275.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "豪雨持續侵襲全台 超過百處未退水 行政院長卓榮泰督導抽水設備檢視",
+          "summary": "受米克拉外圍環流影響，台灣多地連日豪雨，行政院長卓榮泰取消行程前往水利署防災中心，要求各縣市重新檢視抽水機與移動抽水設備是否正常運作，並持續監控萬里溪堰塞湖情形。",
+          "category": "災害防救",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "居民急撤 花蓮堰塞湖紅色警戒 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9592950?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "屏東豪雨成重災區  卓榮泰視察排水工程與農損 - 新頭條-TheHubNews",
+              "url": "https://www.thehubnews.net/archives/638510"
+            },
+            {
+              "title": "顏慧欣被霸凌2案成立！行政院：最快下周決定楊珍妮去留 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11145018"
+            }
+          ]
+        },
+        {
+          "title": "花蓮萬里溪堰塞湖水位急升 紅色警戒再度啟動 居民緊急撤離",
+          "summary": "林業保育署公布萬里溪堰塞湖蓄水量已達200萬噸，水位升至庫容48%，紅色警戒升級，185名下游居民被迫再次撤離安置所，中央災害應變中心全力監控。",
+          "category": "災害防救",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "居民急撤 花蓮堰塞湖紅色警戒 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9592950?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "屏東豪雨成重災區  卓榮泰視察排水工程與農損 - 新頭條-TheHubNews",
+              "url": "https://www.thehubnews.net/archives/638510"
+            },
+            {
+              "title": "顏慧欣被霸凌2案成立！行政院：最快下周決定楊珍妮去留 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11145018"
+            }
+          ]
+        },
+        {
+          "title": "屏東豪雨成重災區 行政院長卓榮泰視察排水工程與農損",
+          "summary": "屏東縣連日豪雨導致道路、橋梁受損及農漁業嚴重災情，行政院長卓榮泰於27日南下視察內埔中林排水改善工程與九如蔬菜產區，要求加速抽排積水並提供災民補助。",
+          "category": "災害防救",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "居民急撤 花蓮堰塞湖紅色警戒 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9592950?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "屏東豪雨成重災區  卓榮泰視察排水工程與農損 - 新頭條-TheHubNews",
+              "url": "https://www.thehubnews.net/archives/638510"
+            },
+            {
+              "title": "顏慧欣被霸凌2案成立！行政院：最快下周決定楊珍妮去留 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11145018"
+            }
+          ]
+        },
+        {
+          "title": "中部蔬菜產區受災嚴重 損失估計逾七成 菜價大幅上漲",
+          "summary": "雲林、彰化主要蔬菜產區因豪雨積水，農民估計蔬菜損失超過七成，青蔥、白菜等批發價已上漲至每公斤80元，預計未來將持續走高。",
+          "category": "農業經濟",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "居民急撤 花蓮堰塞湖紅色警戒 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9592950?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "屏東豪雨成重災區  卓榮泰視察排水工程與農損 - 新頭條-TheHubNews",
+              "url": "https://www.thehubnews.net/archives/638510"
+            },
+            {
+              "title": "顏慧欣被霸凌2案成立！行政院：最快下周決定楊珍妮去留 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11145018"
+            }
+          ]
+        },
+        {
+          "title": "台股單日重挫1683點 AI概念股領跌 市場擔憂槓桿風險",
+          "summary": "2026年6月26日台灣加權指數跌至44,571點，單日下跌1683點創史上第三大跌點，外資賣超1432億元，分析指出AI熱潮與高槓桿投資者的風險是主要因素。",
+          "category": "財經",
+          "sources": [
+            {
+              "title": "豪雨釀全台134處未退水　卓榮泰促檢視抽水設備 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202606260151.aspx"
+            },
+            {
+              "title": "台股暴跌1683點，是AI泡沫警訊還是牛市換手？ 「六貸同堂」槓桿族將面臨斷頭危機！ | 蕃新聞",
+              "url": "https://n.yam.com/Article/20260628302222"
+            },
+            {
+              "title": "居民急撤 花蓮堰塞湖紅色警戒 | 豪雨狂炸釀災情 | 地方 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124534/9592950?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "屏東豪雨成重災區  卓榮泰視察排水工程與農損 - 新頭條-TheHubNews",
+              "url": "https://www.thehubnews.net/archives/638510"
+            },
+            {
+              "title": "顏慧欣被霸凌2案成立！行政院：最快下周決定楊珍妮去留 | 鍾秉哲 | 新聞 - 風傳媒",
+              "url": "https://app.storm.mg/article/11145018"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

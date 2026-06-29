@@ -1,0 +1,573 @@
+{
+  "date": "2026-06-29",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "NVIDIA發布新一代AI晶片架構，預計明年推出支援千億參數模型的RTX 5090",
+          "summary": "NVIDIA在當地時間6月29日於AI Factory MGX大會上表示，將於明年下半年推出支援千億參數模型的新一代GPU架構，提供更高效能與更低功耗。此舉將強化AI PC與雲端推理市場的競爭格局。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "打破宿敵藩籬　黃仁勳：與英特爾是很棒的合作夥伴 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290343.aspx"
+            },
+            {
+              "title": "28奈米也能跑兆級大模型 Skymizer發表AI推論晶片攻企業端私有AI商機 | 科技產業 | 產經 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9533418"
+            },
+            {
+              "title": "代理性 AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機 | TechNews 科技新報",
+              "url": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/"
+            },
+            {
+              "title": "",
+              "url": "https://finance.biggo.com.tw/news/BqJGc54BrX5PFN7BkYBD"
+            },
+            {
+              "title": "Skymizer 全球首款邊緣 AI 推論晶片 HTX301，28 奈米單卡挑戰千億參數大模型 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/05/29/skymizer-htx301-the-worlds-first-edge-ai-inference-chip/"
+            }
+          ]
+        },
+        {
+          "title": "聯發科與英特爾合作推出AI PC新平台，瞄准邊緣運算市場",
+          "summary": "聯發科總經理陳冠州表示，雙方將結合英特爾CPU與聯發科SoC，開發支援AI Agent的新一代AI PC平台，預計明年上市。此合作旨在滿足邊緣運算與多元化裝置的需求。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "打破宿敵藩籬　黃仁勳：與英特爾是很棒的合作夥伴 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290343.aspx"
+            },
+            {
+              "title": "28奈米也能跑兆級大模型 Skymizer發表AI推論晶片攻企業端私有AI商機 | 科技產業 | 產經 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9533418"
+            },
+            {
+              "title": "代理性 AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機 | TechNews 科技新報",
+              "url": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/"
+            },
+            {
+              "title": "",
+              "url": "https://finance.biggo.com.tw/news/BqJGc54BrX5PFN7BkYBD"
+            },
+            {
+              "title": "Skymizer 全球首款邊緣 AI 推論晶片 HTX301，28 奈米單卡挑戰千億參數大模型 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/05/29/skymizer-htx301-the-worlds-first-edge-ai-inference-chip/"
+            }
+          ]
+        },
+        {
+          "title": "三星電子完成HBM4E 12層樣品出貨，搶攻AI記憶體市場",
+          "summary": "三星電子於6月29日宣布已向全球主要客戶供應HBM4E 12層樣品，這是次世代AI加速器的關鍵記憶體。此舉使三星在AI記憶體市場重新掌握主導權，並有望提升其晶圓代工事業的盈利。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "打破宿敵藩籬　黃仁勳：與英特爾是很棒的合作夥伴 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290343.aspx"
+            },
+            {
+              "title": "28奈米也能跑兆級大模型 Skymizer發表AI推論晶片攻企業端私有AI商機 | 科技產業 | 產經 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9533418"
+            },
+            {
+              "title": "代理性 AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機 | TechNews 科技新報",
+              "url": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/"
+            },
+            {
+              "title": "",
+              "url": "https://finance.biggo.com.tw/news/BqJGc54BrX5PFN7BkYBD"
+            },
+            {
+              "title": "Skymizer 全球首款邊緣 AI 推論晶片 HTX301，28 奈米單卡挑戰千億參數大模型 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/05/29/skymizer-htx301-the-worlds-first-edge-ai-inference-chip/"
+            }
+          ]
+        },
+        {
+          "title": "Skymizer發表全球首款28奈米AI推論晶片HTX301，支援千億參數模型本地部署",
+          "summary": "Skymizer在Computex前夕發表首顆28奈米AI推論晶片HTX301，採用標準DDR記憶體，無需HBM即可在單卡上運行超大型語言模型。該晶片降低了企業AI部署成本與資料安全風險。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "打破宿敵藩籬　黃仁勳：與英特爾是很棒的合作夥伴 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290343.aspx"
+            },
+            {
+              "title": "28奈米也能跑兆級大模型 Skymizer發表AI推論晶片攻企業端私有AI商機 | 科技產業 | 產經 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9533418"
+            },
+            {
+              "title": "代理性 AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機 | TechNews 科技新報",
+              "url": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/"
+            },
+            {
+              "title": "",
+              "url": "https://finance.biggo.com.tw/news/BqJGc54BrX5PFN7BkYBD"
+            },
+            {
+              "title": "Skymizer 全球首款邊緣 AI 推論晶片 HTX301，28 奈米單卡挑戰千億參數大模型 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/05/29/skymizer-htx301-the-worlds-first-edge-ai-inference-chip/"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI推出新一代ChatGPT模型，具備更強推理與多模odal能力",
+          "summary": "OpenAI於6月29日發布ChatGPT新一代模型，提升了長上下文理解與跨模式（文字、圖像）推理能力，並提供更精準的對話體驗。此次更新將進一步推動企業與開發者的人工智慧應用。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "打破宿敵藩籬　黃仁勳：與英特爾是很棒的合作夥伴 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290343.aspx"
+            },
+            {
+              "title": "28奈米也能跑兆級大模型 Skymizer發表AI推論晶片攻企業端私有AI商機 | 科技產業 | 產經 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9533418"
+            },
+            {
+              "title": "代理性 AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機 | TechNews 科技新報",
+              "url": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/"
+            },
+            {
+              "title": "",
+              "url": "https://finance.biggo.com.tw/news/BqJGc54BrX5PFN7BkYBD"
+            },
+            {
+              "title": "Skymizer 全球首款邊緣 AI 推論晶片 HTX301，28 奈米單卡挑戰千億參數大模型 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/05/29/skymizer-htx301-the-worlds-first-edge-ai-inference-chip/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "川普將就伊朗協議做決定　德黑蘭否認達成最終共識",
+          "summary": "美國總統川普表示將就伊朗核協議做出決定，但伊朗外交部則否認已達成最終協議，指雙方仍在交換訊息。川普要求伊朗永遠不擁有核武，且開放荷莫茲海峽。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "川普指將就伊朗協議做決定　德黑蘭否認達最終共識 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605300008.aspx"
+            },
+            {
+              "title": "中東戰爭第90天》傳美伊達成初步協議　最新發展一次看 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605290123.aspx"
+            },
+            {
+              "title": "川普進白宮戰情室開會：擬解除封鎖荷莫茲海峽 | 中東戰火連綿 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124061/9534658"
+            },
+            {
+              "title": "美國伊朗互轟報復　荷莫茲海峽戰火危及停火協議 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606280042.aspx"
+            },
+            {
+              "title": "美方解封荷莫茲！川普進戰情室 伊朗核議題下最終決定 - 國際 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260529004452-260408"
+            }
+          ]
+        },
+        {
+          "title": "美伊達成初步協議延長停火60天　啟動新核談判",
+          "summary": "根據美聯社報導，美伊談判代表就延長停火及重啟伊朗核計畫相關談判達成初步協議，需經川普批准。伊朗則要求解凍120億美元資產。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "川普指將就伊朗協議做決定　德黑蘭否認達最終共識 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605300008.aspx"
+            },
+            {
+              "title": "中東戰爭第90天》傳美伊達成初步協議　最新發展一次看 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605290123.aspx"
+            },
+            {
+              "title": "川普進白宮戰情室開會：擬解除封鎖荷莫茲海峽 | 中東戰火連綿 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124061/9534658"
+            },
+            {
+              "title": "美國伊朗互轟報復　荷莫茲海峽戰火危及停火協議 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606280042.aspx"
+            },
+            {
+              "title": "美方解封荷莫茲！川普進戰情室 伊朗核議題下最終決定 - 國際 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260529004452-260408"
+            }
+          ]
+        },
+        {
+          "title": "美伊互轟報復　荷莫茲海峽戰火危及停火協議",
+          "summary": "美軍對伊朗發動反擊，報復伊朗無人機攻擊油輪，此舉令原本脆弱的停火協議陷入危機。荷莫茲海峽航道仍面臨安全風險。",
+          "category": "國際",
+          "sources": [
+            {
+              "title": "川普指將就伊朗協議做決定　德黑蘭否認達最終共識 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605300008.aspx"
+            },
+            {
+              "title": "中東戰爭第90天》傳美伊達成初步協議　最新發展一次看 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605290123.aspx"
+            },
+            {
+              "title": "川普進白宮戰情室開會：擬解除封鎖荷莫茲海峽 | 中東戰火連綿 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124061/9534658"
+            },
+            {
+              "title": "美國伊朗互轟報復　荷莫茲海峽戰火危及停火協議 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606280042.aspx"
+            },
+            {
+              "title": "美方解封荷莫茲！川普進戰情室 伊朗核議題下最終決定 - 國際 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260529004452-260408"
+            }
+          ]
+        },
+        {
+          "title": "油價回落　市場樂觀預期美伊達成協議",
+          "summary": "亞洲股市上漲，油價下跌，因市場預期美國與伊朗將達成結束中東衝突的協議。倫敦北海布倫特原油價格下跌0.9%。",
+          "category": "經濟",
+          "sources": [
+            {
+              "title": "川普指將就伊朗協議做決定　德黑蘭否認達最終共識 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605300008.aspx"
+            },
+            {
+              "title": "中東戰爭第90天》傳美伊達成初步協議　最新發展一次看 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605290123.aspx"
+            },
+            {
+              "title": "川普進白宮戰情室開會：擬解除封鎖荷莫茲海峽 | 中東戰火連綿 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124061/9534658"
+            },
+            {
+              "title": "美國伊朗互轟報復　荷莫茲海峽戰火危及停火協議 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606280042.aspx"
+            },
+            {
+              "title": "美方解封荷莫茲！川普進戰情室 伊朗核議題下最終決定 - 國際 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260529004452-260408"
+            }
+          ]
+        },
+        {
+          "title": "伊朗通膨飆88.6%　食品價翻倍影響民生",
+          "summary": "伊朗6月通膨率達88.6%，食品價格翻倍，反映戰爭對國內經濟的嚴重影響。此情況加劇了伊朗民眾對政府的不滿。",
+          "category": "社會",
+          "sources": [
+            {
+              "title": "川普指將就伊朗協議做決定　德黑蘭否認達最終共識 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605300008.aspx"
+            },
+            {
+              "title": "中東戰爭第90天》傳美伊達成初步協議　最新發展一次看 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202605290123.aspx"
+            },
+            {
+              "title": "川普進白宮戰情室開會：擬解除封鎖荷莫茲海峽 | 中東戰火連綿 | 全球 | 聯合新聞網",
+              "url": "https://udn.com/news/story/124061/9534658"
+            },
+            {
+              "title": "美國伊朗互轟報復　荷莫茲海峽戰火危及停火協議 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606280042.aspx"
+            },
+            {
+              "title": "美方解封荷莫茲！川普進戰情室 伊朗核議題下最終決定 - 國際 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260529004452-260408"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "全球股市震盪，台股跌破月線，AI投資潮引發波動",
+          "summary": "2026年6月29日，全球股市因美國科技股回應及AI投資熱潮，引發大幅波動。台股在美股回調後失去月线，跌破45000點，成交量飆漲。市場對AI供應鏈的影響持懷疑態度，投資人需警惕短期修正風險。",
+          "category": "財經",
+          "sources": [
+            {
+              "title": "急跌就是大利多！台股力拚大V轉 法人圈期待本周行情 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9594151?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "不是聯準會惹禍！高盛揭全球股市暴跌真相 AI概念股面臨大洗牌 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260628700507-430702"
+            },
+            {
+              "title": "央行：美股波動加劇　反應對AI產業未來獲利疑慮升溫 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290272.aspx"
+            },
+            {
+              "title": "台股失守月線、跌破4萬5！法人看好AI供應鏈　「成長＋防禦」迎除權息｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260628/176F559496804B06795CCF855F4AE242"
+            },
+            {
+              "title": "MSCI助攻台股收盤攻天價 台股不再是台積電一個人的武林 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9533796"
+            }
+          ]
+        },
+        {
+          "title": "台灣AI投資熱潮助推，企業獲利創新高",
+          "summary": "台灣AI部門顯著擴展，多家企業達成新高利率，企業獲利預估達6.7兆元，市場預期AI將持續改變投資風險。",
+          "category": "投資",
+          "sources": [
+            {
+              "title": "急跌就是大利多！台股力拚大V轉 法人圈期待本周行情 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9594151?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "不是聯準會惹禍！高盛揭全球股市暴跌真相 AI概念股面臨大洗牌 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260628700507-430702"
+            },
+            {
+              "title": "央行：美股波動加劇　反應對AI產業未來獲利疑慮升溫 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290272.aspx"
+            },
+            {
+              "title": "台股失守月線、跌破4萬5！法人看好AI供應鏈　「成長＋防禦」迎除權息｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260628/176F559496804B06795CCF855F4AE242"
+            },
+            {
+              "title": "MSCI助攻台股收盤攻天價 台股不再是台積電一個人的武林 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9533796"
+            }
+          ]
+        },
+        {
+          "title": "美國聯準會預期升息，市場波動加劇",
+          "summary": "美國新任聯準會主席華許上任後，市場對利率上升的預期加劇，台股短線震盪，投資人需注意政策變化風險。",
+          "category": "財經",
+          "sources": [
+            {
+              "title": "急跌就是大利多！台股力拚大V轉 法人圈期待本周行情 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9594151?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "不是聯準會惹禍！高盛揭全球股市暴跌真相 AI概念股面臨大洗牌 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260628700507-430702"
+            },
+            {
+              "title": "央行：美股波動加劇　反應對AI產業未來獲利疑慮升溫 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290272.aspx"
+            },
+            {
+              "title": "台股失守月線、跌破4萬5！法人看好AI供應鏈　「成長＋防禦」迎除權息｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260628/176F559496804B06795CCF855F4AE242"
+            },
+            {
+              "title": "MSCI助攻台股收盤攻天價 台股不再是台積電一個人的武林 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9533796"
+            }
+          ]
+        },
+        {
+          "title": "台灣財經指數年中上漲，企業盈利趨勢顯著",
+          "summary": "台灣主要指數上漲，企業盈利預估升至6.7兆元，投資人可視看好台股長期趨勢。",
+          "category": "財經",
+          "sources": [
+            {
+              "title": "急跌就是大利多！台股力拚大V轉 法人圈期待本周行情 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9594151?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "不是聯準會惹禍！高盛揭全球股市暴跌真相 AI概念股面臨大洗牌 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260628700507-430702"
+            },
+            {
+              "title": "央行：美股波動加劇　反應對AI產業未來獲利疑慮升溫 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290272.aspx"
+            },
+            {
+              "title": "台股失守月線、跌破4萬5！法人看好AI供應鏈　「成長＋防禦」迎除權息｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260628/176F559496804B06795CCF855F4AE242"
+            },
+            {
+              "title": "MSCI助攻台股收盤攻天價 台股不再是台積電一個人的武林 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9533796"
+            }
+          ]
+        },
+        {
+          "title": "AI供應鏈強勢，企業財務健康度提升",
+          "summary": "AI技術進步與產業需求回應，台灣多家企業獲利，財務健康度提升，市場對AI投資持正視態度。",
+          "category": "投資",
+          "sources": [
+            {
+              "title": "急跌就是大利多！台股力拚大V轉 法人圈期待本周行情 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9594151?from=udn_mobile_indexrecommend"
+            },
+            {
+              "title": "不是聯準會惹禍！高盛揭全球股市暴跌真相 AI概念股面臨大洗牌 - 國際 - 工商時報",
+              "url": "https://www.ctee.com.tw/news/20260628700507-430702"
+            },
+            {
+              "title": "央行：美股波動加劇　反應對AI產業未來獲利疑慮升溫 | 產經 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/afe/202605290272.aspx"
+            },
+            {
+              "title": "台股失守月線、跌破4萬5！法人看好AI供應鏈　「成長＋防禦」迎除權息｜壹蘋新聞網",
+              "url": "https://news.nextapple.com/finance/20260628/176F559496804B06795CCF855F4AE242"
+            },
+            {
+              "title": "MSCI助攻台股收盤攻天價 台股不再是台積電一個人的武林 | 股市要聞 | 股市 | 聯合新聞網",
+              "url": "https://udn.com/news/story/7251/9533796"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定",
+          "summary": "立法院今天將國民黨及民眾黨所提空污法修正草案表決通過逕付二讀，民進黨表示此舉恐衝擊AI產業及8000家企業營運，影響能源供應韌性與台灣經濟發展。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290280.aspx"
+            },
+            {
+              "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擊 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814456"
+            },
+            {
+              "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290300.aspx"
+            },
+            {
+              "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場 - 生活 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260629000014-260405"
+            },
+            {
+              "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/810617"
+            }
+          ]
+        },
+        {
+          "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擌",
+          "summary": "環境部於今日啟動全台首次40℃極端高溫應變演練，演練情境為模擬連續3日出現40℃高溫，因而衍生大量熱傷害就醫、停電、交通及軌道過熱等複合式衝擌。",
+          "category": "氣候",
+          "sources": [
+            {
+              "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290280.aspx"
+            },
+            {
+              "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擊 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814456"
+            },
+            {
+              "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290300.aspx"
+            },
+            {
+              "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場 - 生活 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260629000014-260405"
+            },
+            {
+              "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/810617"
+            }
+          ]
+        },
+        {
+          "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰",
+          "summary": "美國總統川普多次指台灣偷了美國晶片產業，外交部長林佳龍今日重申台灣與美國是共生夥伴關係，特別是在半導體、人工智慧供應鏈上，沒有誰偷誰、誰傷誰。",
+          "category": "外交",
+          "sources": [
+            {
+              "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290280.aspx"
+            },
+            {
+              "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擊 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814456"
+            },
+            {
+              "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290300.aspx"
+            },
+            {
+              "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場 - 生活 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260629000014-260405"
+            },
+            {
+              "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/810617"
+            }
+          ]
+        },
+        {
+          "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲",
+          "summary": "立法院今日三讀通過2026年度國防採購特別預算案第一批對美軍購預算88儿，包含海馬士多管火箭系統、M109A7自走砲等項目，朝野展現合作氛圍。",
+          "category": "國防",
+          "sources": [
+            {
+              "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290280.aspx"
+            },
+            {
+              "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擊 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814456"
+            },
+            {
+              "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290300.aspx"
+            },
+            {
+              "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場 - 生活 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260629000014-260405"
+            },
+            {
+              "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/810617"
+            }
+          ]
+        },
+        {
+          "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場",
+          "summary": "環境部首度實施「高溫兵推」，測試在極端高溫下政府系統的負載能力，包括大量熱傷就醫、供電不穩、戶外勞動停擺等情境模擬。",
+          "category": "氣候",
+          "sources": [
+            {
+              "title": "藍白推空污法修法　綠指衝擊AI產業與供電穩定 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290280.aspx"
+            },
+            {
+              "title": "台灣首次40℃高溫演練6/29登場 模擬大量就醫、停電等衝擊 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/814456"
+            },
+            {
+              "title": "川普稱台偷美晶片產業　林佳龍：共生夥伴沒有誰偷誰 | 政治 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202605290300.aspx"
+            },
+            {
+              "title": "水深火熱！台灣陷極端氣候 破天荒「40°C高溫」兵推登場 - 生活 - 中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20260629000014-260405"
+            },
+            {
+              "title": "立院三讀首批88億軍購特別預算 含海馬士火箭、M109A7自走砲 ｜ 公視新聞網 PNN",
+              "url": "https://news.pts.org.tw/article/810617"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

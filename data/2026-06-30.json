@@ -1,0 +1,465 @@
+{
+  "date": "2026-06-30",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美光、Sandisk 激烈下跌，台指期飆升 686 點",
+          "summary": "受美伊局勢影響，原油價上漲，科技股普跌，美光一度跌近 8%、Sandisk 跌 8.4%。台指期夜盤卻大漲 686 點，顯示市場波動與投資人觀望情形。",
+          "category": "科技市場",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/27/gpt-5-6/"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            },
+            {
+              "title": "AI算力斷電危機！從NVIDIA資料中心到公用事業新藍海：能源供應戰全面開打",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226678"
+            },
+            {
+              "title": "OpenAI自研晶片 首款產品Jalapeño完成設計 帶旺台鏈 | 產業熱點 | 產業 | 經濟日報",
+              "url": "https://money.udn.com/money/story/5612/9589152"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI 推出 GPT-5.6 三款模型（Sol、Terra、Luna）並公布定價",
+          "summary": "OpenAI 依美國政府要求，分階段推出 GPT-5.6 系列，模型分別以太陽、地球、月亮命名，價格從每百萬 Token 1 美元到 30 美元不等。同時加強分層安全防護，針對高風險活動提供更強防護。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/27/gpt-5-6/"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            },
+            {
+              "title": "AI算力斷電危機！從NVIDIA資料中心到公用事業新藍海：能源供應戰全面開打",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226678"
+            },
+            {
+              "title": "OpenAI自研晶片 首款產品Jalapeño完成設計 帶旺台鏈 | 產業熱點 | 產業 | 經濟日報",
+              "url": "https://money.udn.com/money/story/5612/9589152"
+            }
+          ]
+        },
+        {
+          "title": "檢調搜索青雲、是方電訊、美超微，揭露 AI 伺服器走私與偽造 KYC",
+          "summary": "基隆地檢署與海巡署聯手搜索青雲科技、是方電訊與美超微在台分公司，發現涉嫌偽造「設備維護」資料，蒙騙美國 KYY 審查，讓高階 AI 伺服器非法走私。案中多名上市公司高層被逮，顯示國際科技供應鏈監管加強。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/27/gpt-5-6/"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            },
+            {
+              "title": "AI算力斷電危機！從NVIDIA資料中心到公用事業新藍海：能源供應戰全面開打",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226678"
+            },
+            {
+              "title": "OpenAI自研晶片 首款產品Jalapeño完成設計 帶旺台鏈 | 產業熱點 | 產業 | 經濟日報",
+              "url": "https://money.udn.com/money/story/5612/9589152"
+            }
+          ]
+        },
+        {
+          "title": "AI 伺服器能源需求飆升，NVIDIA 與 Microsoft 合作打造 AI 代理，電力供應成新戰場",
+          "summary": "NVIDIA 與 Microsoft 合作在 Azure 上部署 GB300 Blackwell Ultra GPU，讓 AI 代理成為企業作業系統，帶來龐大電力消耗。相關能源公司如 FuelCell Energy 股價飆漲，AI 電力基礎建設成為新投資熱點。",
+          "category": "能源科技",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/27/gpt-5-6/"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            },
+            {
+              "title": "AI算力斷電危機！從NVIDIA資料中心到公用事業新藍海：能源供應戰全面開打",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226678"
+            },
+            {
+              "title": "OpenAI自研晶片 首款產品Jalapeño完成設計 帶旺台鏈 | 產業熱點 | 產業 | 經濟日報",
+              "url": "https://money.udn.com/money/story/5612/9589152"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI 與博通完成自研 AI 晶片 Jalapeño 設計，將搭載台積電 3nm 製程",
+          "summary": "OpenAI 宣布與博通合作的自研 AI 推論晶片 Jalapeño 完成設計，將於台積電 3nm  製程量產，預計投入全球資料中心運算。此舉將提升效能並降低功耗，並可能帶動台積電先進製程訂單持續成長。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "OpenAI 應美國政府要求有限預覽！最新 GPT-5.6 三款模型定價公開 | TechNews 科技新報",
+              "url": "https://technews.tw/2026/06/27/gpt-5-6/"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            },
+            {
+              "title": "AI算力斷電危機！從NVIDIA資料中心到公用事業新藍海：能源供應戰全面開打",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226678"
+            },
+            {
+              "title": "OpenAI自研晶片 首款產品Jalapeño完成設計 帶旺台鏈 | 產業熱點 | 產業 | 經濟日報",
+              "url": "https://money.udn.com/money/story/5612/9589152"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "俄乌冲突局势紧张",
+          "summary": "俄乌冲突持续紧张局势，各方呼吁缓和，国际社会关注。",
+          "category": "国际情勢",
+          "sources": [
+            {
+              "title": "芬蘭總統籲烏俄停火60天　稱烏克蘭狀態佳有利談判 | 國際 | 中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aopl/202606300002.aspx"
+            },
+            {
+              "title": "烏情資：北韓援俄兵傷亡逾7000人　俄加用北韓軍備 - 國際新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/internation/cna/20260630/index-17827755845514418011.html"
+            },
+            {
+              "title": "美最高法院雙裁定　擴大總統權力但護聯準會獨立 - 國際 - 自由時報電子報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5488262"
+            },
+            {
+              "title": "芬蘭總統籲烏俄停火60天：烏克蘭狀態佳有利談判 | 國際 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864419"
+            },
+            {
+              "title": "英法德齊關切中擾台東部海域　美國務院譴責：破壞區域穩定",
+              "url": "http://taiwanus.net/news/press/2026/202606251253401244.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "記憶體崩盤！美光、Sandisk重挫 台指期飆686點",
+          "summary": "受地緣政治緩和與原油走高影響，全球股市普遍上揚，但記憶體板塊遭遇重挫。美光與SanDisk股價大幅下跌，導致投資人大舉出脫，使得台指期夜盤飆升686點。",
+          "category": "股市/記憶體",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "掌握關鍵產能！法人看好「這大廠」優勢　上修Q2營收、獲利 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864191"
+            },
+            {
+              "title": "AI 狂潮估值失控？華爾街警告：記憶體與雲端巨頭被嚴重低估，真正贏家恐非市場想像",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226708"
+            },
+            {
+              "title": "個股／藥華藥強勢回歸　入手分散AI股風險？ | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864309"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            }
+          ]
+        },
+        {
+          "title": "法人看好強茂關鍵產能 上修Q2營收與獲利",
+          "summary": "分析師指出強茂（2481）因產品線完整、8吋晶圓產能優勢，且受惠AI需求與全球晶片調漲價格，已上修第二季營收與獲利展望。公司預計AI相關訂單將逐季放量，進一步提升營運動能。",
+          "category": "產業/半導體",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "掌握關鍵產能！法人看好「這大廠」優勢　上修Q2營收、獲利 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864191"
+            },
+            {
+              "title": "AI 狂潮估值失控？華爾街警告：記憶體與雲端巨頭被嚴重低估，真正贏家恐非市場想像",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226708"
+            },
+            {
+              "title": "個股／藥華藥強勢回歸　入手分散AI股風險？ | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864309"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            }
+          ]
+        },
+        {
+          "title": "華爾街警告 AI 狂潮估值失控 記憶體與雲端巨頭被低估",
+          "summary": "研究員指出近期 AI 震盪使記憶體與雲端巨頭的市值過高，實際盈餘與成長仍未證明。華爾街認為市場對這些股票的估值已失控，真正的贏家可能是其他產業。",
+          "category": "投資/宏觀",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "掌握關鍵產能！法人看好「這大廠」優勢　上修Q2營收、獲利 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864191"
+            },
+            {
+              "title": "AI 狂潮估值失控？華爾街警告：記憶體與雲端巨頭被嚴重低估，真正贏家恐非市場想像",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226708"
+            },
+            {
+              "title": "個股／藥華藥強勢回歸　入手分散AI股風險？ | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864309"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            }
+          ]
+        },
+        {
+          "title": "藥華藥強勢回歸 目標價調升至1,405元",
+          "summary": "分析師看好藥華藥（6446）因Besremi 筆型注射劑獲美國FDA核准及ET適應症即將上市，預期營收與EPS將顯著成長。目標價調升至1,405元，維持「買進」評等。",
+          "category": "個股/醫療",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "掌握關鍵產能！法人看好「這大廠」優勢　上修Q2營收、獲利 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864191"
+            },
+            {
+              "title": "AI 狂潮估值失控？華爾街警告：記憶體與雲端巨頭被嚴重低估，真正贏家恐非市場想像",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226708"
+            },
+            {
+              "title": "個股／藥華藥強勢回歸　入手分散AI股風險？ | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864309"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            }
+          ]
+        },
+        {
+          "title": "AI伺服器走私案揭露 青雲、是方電訊、美超微涉嫌偽造KYC",
+          "summary": "基隆地檢署與海巡署搜索青雲科技、是方電訊及美超微台分公司，懷疑利用虛偽的KYC文件將高價AI伺服器非法出口。案件顯示 AI 供應鏈內部風險與合規問題亟待關注。",
+          "category": "重大新聞/法務",
+          "sources": [
+            {
+              "title": "快訊／記憶體慘崩！美光、Sandisk重挫　台指期飆686點 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864418"
+            },
+            {
+              "title": "掌握關鍵產能！法人看好「這大廠」優勢　上修Q2營收、獲利 | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864191"
+            },
+            {
+              "title": "AI 狂潮估值失控？華爾街警告：記憶體與雲端巨頭被嚴重低估，真正贏家恐非市場想像",
+              "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226708"
+            },
+            {
+              "title": "個股／藥華藥強勢回歸　入手分散AI股風險？ | 財經 | 三立新聞網  SETN.COM",
+              "url": "https://www.setn.com/News.aspx?NewsID=1864309"
+            },
+            {
+              "title": "AI伺服器走私案！檢調搜索「青雲、是方電訊、美超微」　偽造美國KYC手法曝光 | 財經焦點 - 太報 TaiSounds",
+              "url": "https://www.taisounds.com/news/content/76/264874"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "行政院長卓榮泰下令自7月1日起停止政務委員楊珍妮職務",
+          "summary": "行政院調查認定楊珍妮在經貿談判辦公室構成職場霸凌，致副總談判代表顏慧欣受壓。卓榮泰於29日會見後決定停職，楊隨即發表五點聲明，指控調查程序不公並保留法律追訴權。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "卓揆下令停職 楊珍妮反擊 - 要聞 - 中國時報",
+              "url": "https://www.chinatimes.com/newspapers/20260630000435-260120"
+            },
+            {
+              "title": "涉霸凌停職　楊珍妮：對虛構言論不排除採法律途徑 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606293049530.html"
+            },
+            {
+              "title": "房市空歡喜1／央行未鬆綁建商爆氣藏內幕　建商大老疑被賴清德「摸頭」 - 生活新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/living/crwant/20260630/index-78277040040480316009.html"
+            },
+            {
+              "title": "捷運三鶯線6/30正式通車　6/30至8/31免費試乘 - 地方 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cts/local/202606/202606263048292.html"
+            },
+            {
+              "title": "中華民國國防部 - 全球資訊網  - 新聞與公告 - 新聞稿 - 國防部發布新聞稿，針對「美國政府對臺軍售案」乙情說明",
+              "url": "https://www.mnd.gov.tw/Publication/81650"
+            }
+          ]
+        },
+        {
+          "title": "建商不滿央行未放寬第2戶房貸，指賴清德「摸頭」傳出錯誤訊息",
+          "summary": "第二季央行理監事會未進一步鬆綁信用管制，導致建商聯合發聲抗議。業者稱總統賴清德曾向建商大老傳遞放寬訊息，卻在會議上被否決，認為被誤導而感到被騙。",
+          "category": "經濟",
+          "sources": [
+            {
+              "title": "卓揆下令停職 楊珍妮反擊 - 要聞 - 中國時報",
+              "url": "https://www.chinatimes.com/newspapers/20260630000435-260120"
+            },
+            {
+              "title": "涉霸凌停職　楊珍妮：對虛構言論不排除採法律途徑 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606293049530.html"
+            },
+            {
+              "title": "房市空歡喜1／央行未鬆綁建商爆氣藏內幕　建商大老疑被賴清德「摸頭」 - 生活新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/living/crwant/20260630/index-78277040040480316009.html"
+            },
+            {
+              "title": "捷運三鶯線6/30正式通車　6/30至8/31免費試乘 - 地方 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cts/local/202606/202606263048292.html"
+            },
+            {
+              "title": "中華民國國防部 - 全球資訊網  - 新聞與公告 - 新聞稿 - 國防部發布新聞稿，針對「美國政府對臺軍售案」乙情說明",
+              "url": "https://www.mnd.gov.tw/Publication/81650"
+            }
+          ]
+        },
+        {
+          "title": "新北捷運三鶯線6月30日正式通車，提供兩個月免費試乘",
+          "summary": "新北市首條自辦中運量捷運線—三鶯線於今日正式通車，試營運至8月31日免費開放。全長14.29公里、12座車站，將縮短三峽、鶯歌至雙北市中心約20分鐘通勤時間。",
+          "category": "交通",
+          "sources": [
+            {
+              "title": "卓揆下令停職 楊珍妮反擊 - 要聞 - 中國時報",
+              "url": "https://www.chinatimes.com/newspapers/20260630000435-260120"
+            },
+            {
+              "title": "涉霸凌停職　楊珍妮：對虛構言論不排除採法律途徑 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606293049530.html"
+            },
+            {
+              "title": "房市空歡喜1／央行未鬆綁建商爆氣藏內幕　建商大老疑被賴清德「摸頭」 - 生活新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/living/crwant/20260630/index-78277040040480316009.html"
+            },
+            {
+              "title": "捷運三鶯線6/30正式通車　6/30至8/31免費試乘 - 地方 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cts/local/202606/202606263048292.html"
+            },
+            {
+              "title": "中華民國國防部 - 全球資訊網  - 新聞與公告 - 新聞稿 - 國防部發布新聞稿，針對「美國政府對臺軍售案」乙情說明",
+              "url": "https://www.mnd.gov.tw/Publication/81650"
+            }
+          ]
+        },
+        {
+          "title": "美國對台軍售案正式知會國會，4.4億美元30公厘機砲彈藥等2案將於下月生效",
+          "summary": "國防部表示，美國於6月29日宣布對台軍售，包含30公厘機砲彈藥與車兵材零附件二號訂單，總額4.44億美元。此案已依「臺灣關係法」與「六項保證」進行知會程序，預計一個月後生效，以提升台防衛韌性。",
+          "category": "國防",
+          "sources": [
+            {
+              "title": "卓揆下令停職 楊珍妮反擊 - 要聞 - 中國時報",
+              "url": "https://www.chinatimes.com/newspapers/20260630000435-260120"
+            },
+            {
+              "title": "涉霸凌停職　楊珍妮：對虛構言論不排除採法律途徑 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606293049530.html"
+            },
+            {
+              "title": "房市空歡喜1／央行未鬆綁建商爆氣藏內幕　建商大老疑被賴清德「摸頭」 - 生活新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/living/crwant/20260630/index-78277040040480316009.html"
+            },
+            {
+              "title": "捷運三鶯線6/30正式通車　6/30至8/31免費試乘 - 地方 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cts/local/202606/202606263048292.html"
+            },
+            {
+              "title": "中華民國國防部 - 全球資訊網  - 新聞與公告 - 新聞稿 - 國防部發布新聞稿，針對「美國政府對臺軍售案」乙情說明",
+              "url": "https://www.mnd.gov.tw/Publication/81650"
+            }
+          ]
+        },
+        {
+          "title": "顏慧欣逝世後職場霸凌案持續發酵，外部調查確認楊珍妮構成霸凌",
+          "summary": "顏慧欣於今年3月因病逝世，事後揭露其在經貿辦公室遭上司楊珍妮排擠與高壓對待。行政院26日公布外部委員調查結果，認定楊的行為構成職場霸凌，引發社會對公部門職場文化的關注。",
+          "category": "社會",
+          "sources": [
+            {
+              "title": "卓揆下令停職 楊珍妮反擊 - 要聞 - 中國時報",
+              "url": "https://www.chinatimes.com/newspapers/20260630000435-260120"
+            },
+            {
+              "title": "涉霸凌停職　楊珍妮：對虛構言論不排除採法律途徑 - 政治 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cna/politics/202606/202606293049530.html"
+            },
+            {
+              "title": "房市空歡喜1／央行未鬆綁建商爆氣藏內幕　建商大老疑被賴清德「摸頭」 - 生活新聞 - PChome Online 新聞",
+              "url": "https://news.pchome.com.tw/living/crwant/20260630/index-78277040040480316009.html"
+            },
+            {
+              "title": "捷運三鶯線6/30正式通車　6/30至8/31免費試乘 - 地方 - 華視新聞網",
+              "url": "https://news.cts.com.tw/cts/local/202606/202606263048292.html"
+            },
+            {
+              "title": "中華民國國防部 - 全球資訊網  - 新聞與公告 - 新聞稿 - 國防部發布新聞稿，針對「美國政府對臺軍售案」乙情說明",
+              "url": "https://www.mnd.gov.tw/Publication/81650"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
